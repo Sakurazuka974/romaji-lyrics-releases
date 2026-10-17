@@ -1,11 +1,11 @@
 {
- "version": "2.1.1",
- "sha256": "1014b5ca13f8c85641592cc20007f3e7c9c66d4148d6612be6a0463a75d67601",
- "size": 95725691,
+ "version": "2.2.0",
+ "sha256": "ff947717b451e059a801b839168f91335a941a3a9895e00e61fc2b239df93009",
+ "size": 95727296,
  "parts": [
-  "RomajiLyrics-2.1.1.exe.001",
-  "RomajiLyrics-2.1.1.exe.002",
-  "RomajiLyrics-2.1.1.exe.003"
+  "RomajiLyrics-2.2.0.exe.001",
+  "RomajiLyrics-2.2.0.exe.002",
+  "RomajiLyrics-2.2.0.exe.003"
  ],
- "notes": "Romaji Lyrics 2.1.1 ✿\n• Karaoké syllabe par syllabe : le remplissage suit le chant (et tu peux taper les syllabes toi-même dans le Studio, Espace)\n• L'IA affine le rythme des syllabes de toute la chanson\n• Synchro avec l'app Android sur le même Wi-Fi (mots, progression, paroles retouchées) : Réglages → Téléphone\n• Réglages d'apprentissage séparés (bouton ⚙ dans Apprendre) : longueur des quiz, exigence de prononciation, rappels…\n• Kotone redessinée façon manga, pétales de sakura dans l'interface\n• Correctif : les interrupteurs désactivés sont de nouveau bien visibles"
+ "notes": "Romaji Lyrics 2.2 ✿\n• Nouvel exercice : remets la phrase dans l'ordre (le verbe à la fin, les particules après le mot)\n• Révision mélangée : un peu de tout en une seule série\n• Les syllabes tapées sur le téléphone et sur le PC se synchronisent\n• Rappel 2.1 : karaoké syllabe par syllabe, synchro avec Android, réglages d'apprentissage, Kotone façon manga"
 }
