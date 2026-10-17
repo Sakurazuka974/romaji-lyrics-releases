@@ -1,11 +1,11 @@
 {
- "version": "1.7.2",
- "notes": "1.7.2 : mises à jour automatiques plus fiables (téléchargement vérifié).\n\nNouveautés de la 1.7 ✿\n• Mode entraînement en karaoké (touche P) : des mots sont cachés, 3 niveaux\n• Duo : répartis les lignes entre voix A, voix B et ensemble (Studio → Répartir les voix)\n• Mes statistiques : série de jours, semaine d'écoute, chansons préférées, 18 badges\n• Révision espacée des mots, avec un rappel par jour\n• Carte à partager (Ctrl+Maj+C) : image de la ligne en cours avec la pochette\n• Bulle discrète pendant les jeux et vidéos en plein écran\n• Mises à jour automatiques (Réglages → Windows)",
+ "version": "1.8.0",
+ "sha256": "d4e88746f939092f3842cf1415495e68d9e4488f58678fd944ec775abee7d368",
+ "size": 95654689,
  "parts": [
   "RomajiLyrics.exe.001",
   "RomajiLyrics.exe.002",
   "RomajiLyrics.exe.003"
  ],
- "size": 95648121,
- "sha256": "ba63602c0fd388da1c409ac45f2f5e36944d2ed8d242109b6c0e59fa281dc89b"
+ "notes": "Nouveautés de la 1.8 ✿\n• Nouveau menu (Ctrl+K ou bouton ⋯) : toutes les actions rangées en catégories, actions récentes, recherche instantanée, catégorie « Avancé »\n• Réglages : barre de recherche et accès direct à chaque catégorie\n• Aide-mémoire des raccourcis clavier (touche ?)\n• Vérifier les mises à jour, ouvrir le dossier des données et le journal depuis le menu"
 }
