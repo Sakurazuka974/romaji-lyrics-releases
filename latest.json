@@ -1,11 +1,11 @@
 {
- "version": "1.8.2",
- "sha256": "e3314e872b6780853ea19dadea6a0be187d9d085cc106a5fa442bf998569e30c",
- "size": 95655454,
+ "version": "1.9.0",
+ "sha256": "5ba6a5a1707585306650363e4d3c0e9fbc1ae8efab660af6e593afdfb792cbdd",
+ "size": 95671744,
  "parts": [
-  "RomajiLyrics-1.8.2.exe.001",
-  "RomajiLyrics-1.8.2.exe.002",
-  "RomajiLyrics-1.8.2.exe.003"
+  "RomajiLyrics-1.9.0.exe.001",
+  "RomajiLyrics-1.9.0.exe.002",
+  "RomajiLyrics-1.9.0.exe.003"
  ],
- "notes": "1.8.2 : mises à jour encore plus fiables (nouvel essai automatique).\n1.8.1 : le menu défile à la molette, la recherche est plus précise, la touche ? marche sur clavier AZERTY.\n\nNouveautés de la 1.8 ✿\n• Nouveau menu (Ctrl+K ou bouton ⋯) : toutes les actions rangées en catégories, actions récentes, recherche instantanée, catégorie « Avancé »\n• Réglages : barre de recherche et accès direct à chaque catégorie\n• Aide-mémoire des raccourcis clavier (touche ?)\n• Vérifier les mises à jour, ouvrir le dossier des données et le journal depuis le menu"
+ "notes": "Nouveautés de la 1.9 ✿\n• Onglet « Apprendre » : objectif du jour en XP, profil (âge, niveau), révision, quiz de mes mots, dojo des kana, leçon de la chanson par l'IA\n• Kotone en un clic : « Tout synchroniser » et « Préparer le duo », annulables\n• Retour en arrière dans les menus : bouton ←, Échap, Alt+← ou bouton « précédent » de la souris\n• 4 nouveaux badges"
 }
