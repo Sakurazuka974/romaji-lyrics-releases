@@ -1,11 +1,11 @@
 {
- "version": "2.1.0",
- "sha256": "033d120cb281dd07597d8da24372fea98face88d5c717c26322292307d9e483b",
- "size": 95725689,
+ "version": "2.1.1",
+ "sha256": "1014b5ca13f8c85641592cc20007f3e7c9c66d4148d6612be6a0463a75d67601",
+ "size": 95725691,
  "parts": [
-  "RomajiLyrics-2.1.0.exe.001",
-  "RomajiLyrics-2.1.0.exe.002",
-  "RomajiLyrics-2.1.0.exe.003"
+  "RomajiLyrics-2.1.1.exe.001",
+  "RomajiLyrics-2.1.1.exe.002",
+  "RomajiLyrics-2.1.1.exe.003"
  ],
- "notes": "Romaji Lyrics 2.1 ✿\n• Karaoké syllabe par syllabe : le remplissage suit le chant (et tu peux taper les syllabes toi-même dans le Studio, Espace)\n• L'IA affine le rythme des syllabes de toute la chanson\n• Synchro avec l'app Android sur le même Wi-Fi (mots, progression, paroles retouchées) : Réglages → Téléphone\n• Réglages d'apprentissage séparés (bouton ⚙ dans Apprendre) : longueur des quiz, exigence de prononciation, rappels…\n• Kotone redessinée façon manga, pétales de sakura dans l'interface"
+ "notes": "Romaji Lyrics 2.1.1 ✿\n• Karaoké syllabe par syllabe : le remplissage suit le chant (et tu peux taper les syllabes toi-même dans le Studio, Espace)\n• L'IA affine le rythme des syllabes de toute la chanson\n• Synchro avec l'app Android sur le même Wi-Fi (mots, progression, paroles retouchées) : Réglages → Téléphone\n• Réglages d'apprentissage séparés (bouton ⚙ dans Apprendre) : longueur des quiz, exigence de prononciation, rappels…\n• Kotone redessinée façon manga, pétales de sakura dans l'interface\n• Correctif : les interrupteurs désactivés sont de nouveau bien visibles"
 }
