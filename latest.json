@@ -1,11 +1,11 @@
 {
- "version": "2.3.1",
- "sha256": "4ce7205d1dbd9322b5bd1810dde0a01f78883f5a3808575ccc93280e5c568e33",
- "size": 95729987,
+ "version": "2.4.0",
+ "sha256": "aa2a90b2a2ccf24f9348ca74b6493e5c652614445b2bb788336c25c0cd4ec9ff",
+ "size": 95742000,
  "parts": [
-  "RomajiLyrics-2.3.1.exe.001",
-  "RomajiLyrics-2.3.1.exe.002",
-  "RomajiLyrics-2.3.1.exe.003"
+  "RomajiLyrics-2.4.0.exe.001",
+  "RomajiLyrics-2.4.0.exe.002",
+  "RomajiLyrics-2.4.0.exe.003"
  ],
- "notes": "Romaji Lyrics 2.3.1 ✿\n• Furigana : la lecture en hiragana au-dessus des kanji (puce « ふりがな » sur la page Paroles, aussi en karaoké)\n• Certificats d'étape signés Kotone, à enregistrer ou copier\n• Rappel 2.2 : phrases dans l'ordre, révision mélangée, syllabes synchronisées avec le téléphone\n• Furigana plus grands et plus lisibles"
+ "notes": "Romaji Lyrics 2.4 ✿\n• Écrire les kana au tracé : recopie à la souris ou au stylet, Kotone compare la forme\n• Shadowing noté : en karaoké (touche L), « 🎤 Noter ma voix » compare ton chant aux paroles\n• Parler avec Kotone : petite conversation orale en japonais simple (IA)\n• Décor de saison : sakura, lucioles, érable ou neige selon le mois\n• Rappel 2.3 : furigana, certificats d'étape"
 }
