@@ -1,11 +1,11 @@
 {
- "version": "2.2.0",
- "sha256": "ff947717b451e059a801b839168f91335a941a3a9895e00e61fc2b239df93009",
- "size": 95727296,
+ "version": "2.2.1",
+ "sha256": "1d18fc41be7707a69bbd492bde7751b5792e645aed1c3373f85d501c43096ce0",
+ "size": 95727324,
  "parts": [
-  "RomajiLyrics-2.2.0.exe.001",
-  "RomajiLyrics-2.2.0.exe.002",
-  "RomajiLyrics-2.2.0.exe.003"
+  "RomajiLyrics-2.2.1.exe.001",
+  "RomajiLyrics-2.2.1.exe.002",
+  "RomajiLyrics-2.2.1.exe.003"
  ],
- "notes": "Romaji Lyrics 2.2 ✿\n• Nouvel exercice : remets la phrase dans l'ordre (le verbe à la fin, les particules après le mot)\n• Révision mélangée : un peu de tout en une seule série\n• Les syllabes tapées sur le téléphone et sur le PC se synchronisent\n• Rappel 2.1 : karaoké syllabe par syllabe, synchro avec Android, réglages d'apprentissage, Kotone façon manga"
+ "notes": "Romaji Lyrics 2.2.1 ✿\n• Nouvel exercice : remets la phrase dans l'ordre (le verbe à la fin, les particules après le mot)\n• Révision mélangée : un peu de tout en une seule série\n• Les syllabes tapées sur le téléphone et sur le PC se synchronisent\n• Rappel 2.1 : karaoké syllabe par syllabe, synchro avec Android, réglages d'apprentissage, Kotone façon manga\n• Puces et zones de réponse mieux contrastées"
 }
