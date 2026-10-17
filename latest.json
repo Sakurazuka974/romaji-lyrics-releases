@@ -1,11 +1,11 @@
 {
- "version": "1.8.0",
- "sha256": "d4e88746f939092f3842cf1415495e68d9e4488f58678fd944ec775abee7d368",
- "size": 95654689,
+ "version": "1.8.1",
+ "sha256": "448bd15e2a551d9594bef04cab2cb987f2111669940a0bb6dbc2b58f31424fab",
+ "size": 95655040,
  "parts": [
   "RomajiLyrics.exe.001",
   "RomajiLyrics.exe.002",
   "RomajiLyrics.exe.003"
  ],
- "notes": "Nouveautés de la 1.8 ✿\n• Nouveau menu (Ctrl+K ou bouton ⋯) : toutes les actions rangées en catégories, actions récentes, recherche instantanée, catégorie « Avancé »\n• Réglages : barre de recherche et accès direct à chaque catégorie\n• Aide-mémoire des raccourcis clavier (touche ?)\n• Vérifier les mises à jour, ouvrir le dossier des données et le journal depuis le menu"
+ "notes": "1.8.1 : le menu défile à la molette, la recherche est plus précise, la touche ? marche sur clavier AZERTY.\n\nNouveautés de la 1.8 ✿\n• Nouveau menu (Ctrl+K ou bouton ⋯) : toutes les actions rangées en catégories, actions récentes, recherche instantanée, catégorie « Avancé »\n• Réglages : barre de recherche et accès direct à chaque catégorie\n• Aide-mémoire des raccourcis clavier (touche ?)\n• Vérifier les mises à jour, ouvrir le dossier des données et le journal depuis le menu"
 }
