@@ -1,11 +1,11 @@
 {
- "version": "1.9.0",
- "sha256": "5ba6a5a1707585306650363e4d3c0e9fbc1ae8efab660af6e593afdfb792cbdd",
- "size": 95671744,
+ "version": "1.9.1",
+ "sha256": "e638afab80345f89b6290652d79b63c79590cf12d3e80540177eb4be00fe6e9c",
+ "size": 95671719,
  "parts": [
-  "RomajiLyrics-1.9.0.exe.001",
-  "RomajiLyrics-1.9.0.exe.002",
-  "RomajiLyrics-1.9.0.exe.003"
+  "RomajiLyrics-1.9.1.exe.001",
+  "RomajiLyrics-1.9.1.exe.002",
+  "RomajiLyrics-1.9.1.exe.003"
  ],
- "notes": "Nouveautés de la 1.9 ✿\n• Onglet « Apprendre » : objectif du jour en XP, profil (âge, niveau), révision, quiz de mes mots, dojo des kana, leçon de la chanson par l'IA\n• Kotone en un clic : « Tout synchroniser » et « Préparer le duo », annulables\n• Retour en arrière dans les menus : bouton ←, Échap, Alt+← ou bouton « précédent » de la souris\n• 4 nouveaux badges"
+ "notes": "1.9.1 : dans les quiz, réponds avec les touches 1 à 4, et la bonne réponse s'affiche en vert.\n\nNouveautés de la 1.9 ✿\n• Onglet « Apprendre » : objectif du jour en XP, profil (âge, niveau), révision, quiz de mes mots, dojo des kana, leçon de la chanson par l'IA\n• Kotone en un clic : « Tout synchroniser » et « Préparer le duo », annulables\n• Retour en arrière dans les menus : bouton ←, Échap, Alt+← ou bouton « précédent » de la souris\n• 4 nouveaux badges"
 }
