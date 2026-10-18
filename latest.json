@@ -1,11 +1,11 @@
 {
- "version": "2.7.0",
- "sha256": "28d5bb31a8807e312a94fc2820b4e11f738041062266e5f90e22b101889da0c0",
- "size": 95748438,
+ "version": "2.7.1",
+ "sha256": "33f9c6d495677475e1d9300c4bc127eb5c5ea96317a13e2d4ea8beefc985354e",
+ "size": 95748451,
  "parts": [
-  "RomajiLyrics-2.7.0.exe.001",
-  "RomajiLyrics-2.7.0.exe.002",
-  "RomajiLyrics-2.7.0.exe.003"
+  "RomajiLyrics-2.7.1.exe.001",
+  "RomajiLyrics-2.7.1.exe.002",
+  "RomajiLyrics-2.7.1.exe.003"
  ],
- "notes": "Romaji Lyrics 2.7.0 ✿\n• Synchro syllabe par syllabe refaite : choisis la ligne (◀ ▶, flèches ← →, liste), suis la chanson ou fixe la ligne à la main, annule le dernier tap (Retour arrière)\n• Options avancées du tapotement : boucle sur la ligne, compensation de réaction réglable, décalage de ±50 ms sur une ligne, copie du rythme vers les lignes identiques (refrain), prochaine ligne pas encore calée\n• Karaoké : la couleur suit maintenant les vraies syllabes, lettre par lettre, même quand la ligne passe sur deux lignes\n• Rappel 2.6 : recherche partout (Ctrl+Maj+F), mode hors ligne, Ctrl+Z pour annuler une modification des paroles"
+ "notes": "Romaji Lyrics 2.7.1 ✿\n• Synchro syllabe par syllabe : ouvrir « Choisir une ligne dans la liste » quitte automatiquement le suivi de la chanson, la ligne ne bouge plus pendant que tu choisis\n• Rappel 2.7 : tapotement refait avec options avancées, karaoké lettre par lettre"
 }
