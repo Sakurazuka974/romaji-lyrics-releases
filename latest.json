@@ -1,11 +1,11 @@
 {
- "version": "2.8.0",
- "sha256": "659b64d6064ebe028a0e0805e97a8fe639f9b1b3415783fd56bb52be2c0132f9",
- "size": 95758436,
+ "version": "2.9.0",
+ "sha256": "966ad0385e0df13a5942a31b2299f2a150b27a48fc0eaacac1a72f8f71d20f5f",
+ "size": 95770990,
  "parts": [
-  "RomajiLyrics-2.8.0.exe.001",
-  "RomajiLyrics-2.8.0.exe.002",
-  "RomajiLyrics-2.8.0.exe.003"
+  "RomajiLyrics-2.9.0.exe.001",
+  "RomajiLyrics-2.9.0.exe.002",
+  "RomajiLyrics-2.9.0.exe.003"
  ],
- "notes": "Romaji Lyrics 2.8.0 ✿\n• Clips plus fiables : vidéos non intégrables écartées, lecteur de secours (erreur 153), préchargement du clip, clip qui marche retenu\n• Boucle sur un passage (Ctrl+L, palette : début/fin)\n• Notes ✎ sur une ligne ou une chanson\n• Chanson du jour, bouton « Reprendre » la dernière chanson\n• Page Diagnostic (palette) pour comprendre les erreurs\n• Remplissage lettre par lettre aussi sur la page Paroles, couleur au choix\n• Temps d'écoute par chanson dans les stats"
+ "notes": "Romaji Lyrics 2.9.0 ✿\n• Nouvelle barre de menus en haut (Fichier, Édition, Lecture, Paroles, Synchro, Apprendre, Kotone, Affichage, Aide), cohérente avec la palette Ctrl+K\n• Karaoké plein écran : la souris réapparaît beaucoup plus vite\n• Kotone (IA) plus précise : consignes de rigueur et réponses plus stables\n• Thème qui suit le mode clair / sombre de Windows (Réglages → Apparence)\n• Sauvegarde automatique chaque jour (7 gardées)\n• Niveau de la chanson (N5 à N1, IA), dictée de la chanson, bouton « Kanji (Jisho) » sur une ligne\n• Clips : bascule directe sur Dailymotion / Niconico (et AMV) si YouTube est injoignable (VPN), 2e essai du lecteur, journal précis\n• Rappel 2.8 : diagnostic, boucle sur un passage, notes, chanson du jour"
 }
