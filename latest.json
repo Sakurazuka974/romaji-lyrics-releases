@@ -1,11 +1,11 @@
 {
- "version": "2.9.0",
- "sha256": "966ad0385e0df13a5942a31b2299f2a150b27a48fc0eaacac1a72f8f71d20f5f",
- "size": 95770990,
+ "version": "2.9.1",
+ "sha256": "78c3f043f25337f24fdf3e349e251bc1bf914c553c77cc237a89caaf3dfedb58",
+ "size": 95771263,
  "parts": [
-  "RomajiLyrics-2.9.0.exe.001",
-  "RomajiLyrics-2.9.0.exe.002",
-  "RomajiLyrics-2.9.0.exe.003"
+  "RomajiLyrics-2.9.1.exe.001",
+  "RomajiLyrics-2.9.1.exe.002",
+  "RomajiLyrics-2.9.1.exe.003"
  ],
- "notes": "Romaji Lyrics 2.9.0 ✿\n• Nouvelle barre de menus en haut (Fichier, Édition, Lecture, Paroles, Synchro, Apprendre, Kotone, Affichage, Aide), cohérente avec la palette Ctrl+K\n• Karaoké plein écran : la souris réapparaît beaucoup plus vite\n• Kotone (IA) plus précise : consignes de rigueur et réponses plus stables\n• Thème qui suit le mode clair / sombre de Windows (Réglages → Apparence)\n• Sauvegarde automatique chaque jour (7 gardées)\n• Niveau de la chanson (N5 à N1, IA), dictée de la chanson, bouton « Kanji (Jisho) » sur une ligne\n• Clips : bascule directe sur Dailymotion / Niconico (et AMV) si YouTube est injoignable (VPN), 2e essai du lecteur, journal précis\n• Rappel 2.8 : diagnostic, boucle sur un passage, notes, chanson du jour"
+ "notes": "Romaji Lyrics 2.9.1 ✿\n• Clips : si YouTube charge mais qu'aucune vidéo ne démarre (VPN), bascule après 2 essais sur Dailymotion / Niconico au lieu d'essayer chaque vidéo\n• Journal plus précis sur les clips qui ne démarrent pas\n• Rappel 2.9.0 : barre de menus, niveau de la chanson, dictée, thème Windows, sauvegarde automatique"
 }
