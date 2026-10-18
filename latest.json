@@ -1,11 +1,11 @@
 {
- "version": "2.10.1",
- "sha256": "a0196fb55f35e18a473315b1c53d43bda8730d2074d32c0bccab936810231dbb",
- "size": 95773508,
+ "version": "2.12.0",
+ "sha256": "c457f028a74609438293814a45221048cec0e16f68e1cb85fe72777935628d36",
+ "size": 110227724,
  "parts": [
-  "RomajiLyrics-2.10.1.exe.001",
-  "RomajiLyrics-2.10.1.exe.002",
-  "RomajiLyrics-2.10.1.exe.003"
+  "RomajiLyrics-2.12.0.exe.001",
+  "RomajiLyrics-2.12.0.exe.002",
+  "RomajiLyrics-2.12.0.exe.003"
  ],
- "notes": "Romaji Lyrics 2.10.1 ✿\n• Nouveau : touches du karaoké modifiables (Ctrl+K puis « Changer les touches du karaoké », ou depuis la liste des raccourcis)\n• Rappel 2.10 : masquer le romaji des mots connus"
+ "notes": "Romaji Lyrics 2.12.0 ✿\n• Kotone a 16 poses : chant, course, assise, clin d'œil, présentation, remerciement, joie, vertige, câlin de cœur, bisou, timide, boudeuse, fâchée, doigt levé…\n• Les poses suivent la situation : joie sur une bonne réponse, vertige sur une erreur, chant quand la musique joue, surprises quand tu cliques sur elle\n• De nombreux nouveaux dialogues ; sa garde-robe la suit dans toutes les poses"
 }
