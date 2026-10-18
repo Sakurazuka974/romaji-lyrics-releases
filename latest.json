@@ -1,11 +1,11 @@
 {
- "version": "2.9.4",
- "sha256": "891dabf4111da7e06b5cb161eead0a50c662a553813a6864858fc78a7c48297f",
- "size": 95771653,
+ "version": "2.10.0",
+ "sha256": "53a3aec620dcc0ebc37181a2e25bd7d598dda784ec9a3f7bf15096dc82500312",
+ "size": 95772047,
  "parts": [
-  "RomajiLyrics-2.9.4.exe.001",
-  "RomajiLyrics-2.9.4.exe.002",
-  "RomajiLyrics-2.9.4.exe.003"
+  "RomajiLyrics-2.10.0.exe.001",
+  "RomajiLyrics-2.10.0.exe.002",
+  "RomajiLyrics-2.10.0.exe.003"
  ],
- "notes": "Romaji Lyrics 2.9.4 ✿\n• Clips : la liste des clips disponibles reste complète après avoir choisi un clip (plus besoin de recharger la chanson)\n• Les bonnes vidéos YouTube ne sont plus écartées à tort ; liste des clips refusés remise à zéro une fois\n• Rappel 2.9 : barre de menus, niveau de la chanson, dictée, thème Windows, sauvegarde automatique"
+ "notes": "Romaji Lyrics 2.10.0 ✿\n• Nouveau : masquer le romaji des mots que tu connais (palette Ctrl+K ou menu Affichage). Les mots réussis plusieurs fois s'affichent en japonais dans la ligne, à toi de les lire\n• Rappel 2.9 : clips plus fiables, barre de menus, niveau de la chanson, dictée, thème Windows, sauvegarde automatique"
 }
