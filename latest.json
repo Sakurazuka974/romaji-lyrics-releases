@@ -1,11 +1,11 @@
 {
- "version": "2.4.1",
- "sha256": "02127f91d36b46dde453a62fb8de726427b55fe137867374aba6eff58ec99d34",
- "size": 95742160,
+ "version": "2.5.0",
+ "sha256": "281246b3b207ad319e6978ae2dd371cba8a40dff34b886ff15d80cf2ea7fb4f2",
+ "size": 95743233,
  "parts": [
-  "RomajiLyrics-2.4.1.exe.001",
-  "RomajiLyrics-2.4.1.exe.002",
-  "RomajiLyrics-2.4.1.exe.003"
+  "RomajiLyrics-2.5.0.exe.001",
+  "RomajiLyrics-2.5.0.exe.002",
+  "RomajiLyrics-2.5.0.exe.003"
  ],
- "notes": "Romaji Lyrics 2.4.1 ✿\n• Écrire les kana au tracé : recopie à la souris ou au stylet, Kotone compare la forme\n• Shadowing noté : en karaoké (touche L), « 🎤 Noter ma voix » compare ton chant aux paroles\n• Parler avec Kotone : petite conversation orale en japonais simple (IA)\n• Décor de saison : sakura, lucioles, érable ou neige selon le mois\n• Rappel 2.3 : furigana, certificats d'étape\n• Tracé des kana noté plus justement (un gribouillis ne passe plus !)"
+ "notes": "Romaji Lyrics 2.5 ✿\n• Ctrl+Z partout : annule la dernière modification des paroles (texte, synchro, décalage, syllabes, voix), jusqu'à 30 retours en arrière\n• Rappel 2.4 : écriture des kana au tracé, shadowing noté, conversation orale avec Kotone, décor de saison"
 }
