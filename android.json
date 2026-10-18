@@ -1,7 +1,7 @@
 {
- "versionCode": 41,
- "versionName": "4.25",
- "file": "android/RomajiLyrics-Android-4.25.apk",
- "sha256": "5b545906b33d8103a12172f51528f29a3623498c12d5a427e01bfdadb263a20e",
- "notes": "• Nouvelle Kotone : ton illustration est maintenant la mascotte (animée : elle respire, cligne des yeux, sa queue de cheval se balance, étincelles qui scintillent) et sert d'icône de l'appli"
+ "versionCode": 42,
+ "versionName": "4.26",
+ "file": "android/RomajiLyrics-Android-4.26.apk",
+ "sha256": "050b65c0b1a629c92e8c73ca5d5fb02c88fa311ec9a39c88ac6c1c4683541a57",
+ "notes": "• Kotone bouge davantage : sa tête, sa queue de cheval, son bras et son micro suivent le rythme, elle saute quand tu la touches\n• Kotone parle : bulles de dialogue avec des émotes (bonjour, encouragements, réactions aux chansons). Touche-la : elle répond (avec l'IA si activée dans Réglages), appui long : discuter"
 }
