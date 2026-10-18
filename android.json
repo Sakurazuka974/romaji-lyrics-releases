@@ -1,7 +1,7 @@
 {
- "versionCode": 40,
- "versionName": "4.24",
- "file": "android/RomajiLyrics-Android-4.24.apk",
- "sha256": "7063e801aed974dd002646dd0db0cc26c92b494fb8d70152528182a7e3e81abc",
- "notes": "• Kotone relookée : cheveux blonds, robe bleue, contours doux et ombrages façon manga, gros nœud rose à pois, yeux ambrés"
+ "versionCode": 41,
+ "versionName": "4.25",
+ "file": "android/RomajiLyrics-Android-4.25.apk",
+ "sha256": "02fffa1085859e94e8dbe97fe35a7cf4ac8c0095c1cd9fbf80a7ed54ab64c5e2",
+ "notes": "• Nouvelle Kotone : ton illustration est maintenant la mascotte (animée : elle respire, cligne des yeux, sa queue de cheval se balance, étincelles qui scintillent) et sert d'icône de l'appli"
 }
