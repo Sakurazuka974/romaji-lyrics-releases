@@ -1,7 +1,7 @@
 {
- "versionCode": 42,
- "versionName": "4.26",
- "file": "android/RomajiLyrics-Android-4.26.apk",
- "sha256": "050b65c0b1a629c92e8c73ca5d5fb02c88fa311ec9a39c88ac6c1c4683541a57",
- "notes": "• Kotone bouge davantage : sa tête, sa queue de cheval, son bras et son micro suivent le rythme, elle saute quand tu la touches\n• Kotone parle : bulles de dialogue avec des émotes (bonjour, encouragements, réactions aux chansons). Touche-la : elle répond (avec l'IA si activée dans Réglages), appui long : discuter"
+ "versionCode": 43,
+ "versionName": "4.27",
+ "file": "android/RomajiLyrics-Android-4.27.apk",
+ "sha256": "e4f006e07f5a3f2c56384d2cb6498277d020be74f3b64bc4973a537484aa7f6b",
+ "notes": "• Garde-robe de Kotone : accessoires, couleurs de cheveux et de robe, auras, ailes et compagnons à débloquer en apprenant (menu → Apprendre → Garde-robe)\n• Kotone plus animée (tête, queue de cheval, bras et micro), bulles de dialogue avec émotes, réponses de l'IA quand tu la touches"
 }
