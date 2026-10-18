@@ -1,7 +1,7 @@
 {
- "versionCode": 37,
- "versionName": "4.21",
- "file": "android/RomajiLyrics-Android-4.21.apk",
- "sha256": "fb02cf30326e1487c058843a44d7d3b67e9f527fb194f2170d9a9270edd797e6",
- "notes": "• Réglages repensés : une ligne par catégorie (Apparence, Paroles, Bulle, Kotone IA, Synchronisation, Lecteurs, Confort, Données, Avancé, À propos), recherche toujours là\n• Kotone devient une petite fille chibi kawaii (couettes, casque, coucou)\n• La vraie version s'affiche dans À propos, avec le bouton de mise à jour"
+ "versionCode": 38,
+ "versionName": "4.22",
+ "file": "android/RomajiLyrics-Android-4.22.apk",
+ "sha256": "858bb39d48e18c231ed882ef67edba7861cd1309c23530db2634ea56cbb8e292",
+ "notes": "• Kotone plus détaillée : yeux manga brillants, frange et mèches, couettes, uniforme de matelot, jupe plissée, chaussettes et chaussures"
 }
