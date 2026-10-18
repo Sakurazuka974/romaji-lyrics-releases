@@ -1,11 +1,11 @@
 {
- "version": "2.5.0",
- "sha256": "281246b3b207ad319e6978ae2dd371cba8a40dff34b886ff15d80cf2ea7fb4f2",
- "size": 95743233,
+ "version": "2.6.0",
+ "sha256": "9d00b95062b3cf491c8d475a47781bf8d76ee243cd1b2db86228df12baa98b91",
+ "size": 95746928,
  "parts": [
-  "RomajiLyrics-2.5.0.exe.001",
-  "RomajiLyrics-2.5.0.exe.002",
-  "RomajiLyrics-2.5.0.exe.003"
+  "RomajiLyrics-2.6.0.exe.001",
+  "RomajiLyrics-2.6.0.exe.002",
+  "RomajiLyrics-2.6.0.exe.003"
  ],
- "notes": "Romaji Lyrics 2.5 ✿\n• Ctrl+Z partout : annule la dernière modification des paroles (texte, synchro, décalage, syllabes, voix), jusqu'à 30 retours en arrière\n• Rappel 2.4 : écriture des kana au tracé, shadowing noté, conversation orale avec Kotone, décor de saison"
+ "notes": "Romaji Lyrics 2.6 ✿\n• Rechercher partout (Ctrl+Maj+F) : dans toutes tes paroles gardées (japonais, romaji, traduction), tes mots et les leçons\n• Mode hors ligne (Réglages → Données) : tes paroles gardées et le romaji restent, l'IA et internet se mettent en pause\n• Accessibilité : le Narrateur peut lire chaque nouvelle ligne, les corrections des quiz sont annoncées, pétales immobiles si les animations sont coupées\n• Rappel 2.5 : Ctrl+Z annule la dernière modification des paroles"
 }
