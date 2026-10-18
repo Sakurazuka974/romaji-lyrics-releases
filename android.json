@@ -1,7 +1,7 @@
 {
- "versionCode": 44,
- "versionName": "4.28",
- "file": "android/RomajiLyrics-Android-4.28.apk",
- "sha256": "0ff4bca71969d903da84e29d921c9c919a4498408fefd40d0c83b534017cf258",
- "notes": "• Kotone fait coucou pour de vrai (sa main se lève et salue) quand elle te dit bonjour ou quand tu la touches\n• Kotone professeur : toque et ardoise dans toute la section Apprendre ; elle te guide, te félicite ou t'encourage pendant les quiz\n• Garde-robe, bulles de dialogue et réponses de l'IA (voir 4.27)"
+ "versionCode": 45,
+ "versionName": "4.29",
+ "file": "android/RomajiLyrics-Android-4.29.apk",
+ "sha256": "cca66a38ce6f4df2cee7d05fcaed7fcff0723e8020ffbbca59766cae19b31852",
+ "notes": "• Kotone a 8 nouvelles poses : elle chante au micro, court, s'assoit, te fait un clin d'œil avec des cœurs, te présente quelque chose, joint les mains pour te remercier, saute de joie ou a la tête qui tourne\n• Les poses suivent la situation : joie sur une bonne réponse ou une série, tête qui tourne sur une erreur, chant quand la musique joue, clin d'œil quand tu la touches\n• De nombreux nouveaux dialogues liés à chaque pose ; sa garde-robe (cheveux, robe, accessoires) la suit dans toutes les poses"
 }
