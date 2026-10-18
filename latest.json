@@ -1,11 +1,11 @@
 {
- "version": "2.6.1",
- "sha256": "1ed30102af5ae2e53af8c33676e27e708468db629872031747abb665130d779e",
- "size": 95746914,
+ "version": "2.7.0",
+ "sha256": "28d5bb31a8807e312a94fc2820b4e11f738041062266e5f90e22b101889da0c0",
+ "size": 95748438,
  "parts": [
-  "RomajiLyrics-2.6.1.exe.001",
-  "RomajiLyrics-2.6.1.exe.002",
-  "RomajiLyrics-2.6.1.exe.003"
+  "RomajiLyrics-2.7.0.exe.001",
+  "RomajiLyrics-2.7.0.exe.002",
+  "RomajiLyrics-2.7.0.exe.003"
  ],
- "notes": "Romaji Lyrics 2.6.1 ✿\n• Rechercher partout (Ctrl+Maj+F) : dans toutes tes paroles gardées (japonais, romaji, traduction), tes mots et les leçons\n• Mode hors ligne (Réglages → Données) : tes paroles gardées et le romaji restent, l'IA et internet se mettent en pause\n• Accessibilité : le Narrateur peut lire chaque nouvelle ligne, les corrections des quiz sont annoncées, pétales immobiles si les animations sont coupées\n• Rappel 2.5 : Ctrl+Z annule la dernière modification des paroles\n• Correctifs : la case de « Rechercher partout » reçoit directement le clavier, le bon numéro de version s'affiche dans « À propos »"
+ "notes": "Romaji Lyrics 2.7.0 ✿\n• Synchro syllabe par syllabe refaite : choisis la ligne (◀ ▶, flèches ← →, liste), suis la chanson ou fixe la ligne à la main, annule le dernier tap (Retour arrière)\n• Options avancées du tapotement : boucle sur la ligne, compensation de réaction réglable, décalage de ±50 ms sur une ligne, copie du rythme vers les lignes identiques (refrain), prochaine ligne pas encore calée\n• Karaoké : la couleur suit maintenant les vraies syllabes, lettre par lettre, même quand la ligne passe sur deux lignes\n• Rappel 2.6 : recherche partout (Ctrl+Maj+F), mode hors ligne, Ctrl+Z pour annuler une modification des paroles"
 }
