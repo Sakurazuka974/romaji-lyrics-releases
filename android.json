@@ -2,6 +2,6 @@
  "versionCode": 49,
  "versionName": "4.33",
  "file": "android/RomajiLyrics-Android-4.33.apk",
- "sha256": "60edf17363e8599643a50a5102206a0f4943ca299ff411fe93624b16d7f08071",
+ "sha256": "09c76c0843edc63a821525643ad0e0e8c8828ceb9dce80f6ab092a062bd777bb",
  "notes": "• Musique originale de Kotone : un thème instrumental et une version avec vocalise (voix de synthèse sans paroles) jouent pendant le prologue ; un petit jingle annonce les nouveaux chapitres ; une version douce accompagne la lecture des chapitres. Bouton « ♪ musique » dans le prologue, et réglage dédié. La musique baisse le son de Spotify le temps du prologue\n• Voix plus naturelles : choisis Google Cloud ou ElevenLabs (avec ta propre clé) dans Réglages → Voix et musique. Chaque phrase n'est demandée qu'une fois puis gardée sur le téléphone (relecture gratuite et hors ligne), avec un plafond de caractères par mois et un bouton pour enregistrer toute l'histoire d'un coup. Sans clé, Kotone garde la voix du téléphone\n• Kotone est plus grande dans toute l'application (en-têtes, réglages, professeur, écrans d'apprentissage)"
 }
