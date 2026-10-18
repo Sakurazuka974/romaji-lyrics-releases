@@ -1,11 +1,11 @@
 {
- "version": "2.9.1",
- "sha256": "78c3f043f25337f24fdf3e349e251bc1bf914c553c77cc237a89caaf3dfedb58",
- "size": 95771263,
+ "version": "2.9.2",
+ "sha256": "dcb5f42e83c3929d2eb3f2ce85c4592fcbd8263253a70da4939ee5d7364490a9",
+ "size": 95771485,
  "parts": [
-  "RomajiLyrics-2.9.1.exe.001",
-  "RomajiLyrics-2.9.1.exe.002",
-  "RomajiLyrics-2.9.1.exe.003"
+  "RomajiLyrics-2.9.2.exe.001",
+  "RomajiLyrics-2.9.2.exe.002",
+  "RomajiLyrics-2.9.2.exe.003"
  ],
- "notes": "Romaji Lyrics 2.9.1 ✿\n• Clips : si YouTube charge mais qu'aucune vidéo ne démarre (VPN), bascule après 2 essais sur Dailymotion / Niconico au lieu d'essayer chaque vidéo\n• Journal plus précis sur les clips qui ne démarrent pas\n• Rappel 2.9.0 : barre de menus, niveau de la chanson, dictée, thème Windows, sauvegarde automatique"
+ "notes": "Romaji Lyrics 2.9.2 ✿\n• Clips : cause trouvée dans ton journal — le lecteur YouTube n'était jamais prêt ; si le domaine youtube-nocookie.com est bloqué, bascule automatique sur youtube.com\n• Diagnostic : teste maintenant les vidéos intégrées YouTube et le lecteur Dailymotion\n• Rappel 2.9 : barre de menus, niveau de la chanson, dictée, thème Windows, sauvegarde automatique"
 }
