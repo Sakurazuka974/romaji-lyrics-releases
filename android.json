@@ -1,7 +1,7 @@
 {
- "versionCode": 45,
- "versionName": "4.29",
- "file": "android/RomajiLyrics-Android-4.29.apk",
- "sha256": "bbca81aac13b678775b774bb93f288948149d5919f33711ebb2e0472c15c92b8",
- "notes": "• Kotone a 8 nouvelles poses : elle chante au micro, court, s'assoit, te fait un clin d'œil avec des cœurs, te présente quelque chose, joint les mains pour te remercier, saute de joie ou a la tête qui tourne\n• Les poses suivent la situation : joie sur une bonne réponse ou une série, tête qui tourne sur une erreur, chant quand la musique joue, clin d'œil quand tu la touches\n• De nombreux nouveaux dialogues liés à chaque pose ; sa garde-robe (cheveux, robe, accessoires) la suit dans toutes les poses"
+ "versionCode": 46,
+ "versionName": "4.30",
+ "file": "android/RomajiLyrics-Android-4.30.apk",
+ "sha256": "bb717bd99bb20012610135919ef51f46d156e0df8aadb65ef6b2c2fd00062416",
+ "notes": "• Kotone a 16 poses : chant, course, assise, clin d'œil, présentation, remerciement, joie, vertige… et aussi câlin de cœur, bisou, timide, boudeuse, fâchée, doigt levé\n• Les poses suivent la situation (bonne réponse = joie, erreur = vertige ou prière, musique = chant, clic sur elle = surprises) et ses bulles ont de nouveaux dialogues\n• Sa garde-robe la suit dans toutes les poses"
 }
