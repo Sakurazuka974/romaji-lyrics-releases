@@ -1,7 +1,7 @@
 {
- "versionCode": 35,
- "versionName": "4.19",
- "file": "android/RomajiLyrics-Android-4.19.apk",
- "sha256": "89c83fa8aaf0d78b3acfe179ee242e4c0c80713e5bbabb8e9d3d587f8fb9eb7e",
- "notes": "• Masquer le romaji des mots que tu connais (menu → Apprendre)\n• Mise à jour intégrée : menu → Application → Mettre à jour l'appli"
+ "versionCode": 36,
+ "versionName": "4.20",
+ "file": "android/RomajiLyrics-Android-4.20.apk",
+ "sha256": "57d74f42dad5497aefe93b70583b8b7a066bdaa90f8b10c5f2f273158d87746e",
+ "notes": "• Menu repensé : cartes par catégorie (Écoute, Paroles, Synchronisation, Apprendre, Exercices, Partager, Application, Avancé), récents en haut\n• L'onglet « Mots » s'appelle maintenant « Apprendre »\n• Exercices séparés des cours"
 }
