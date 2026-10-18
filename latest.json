@@ -1,11 +1,11 @@
 {
- "version": "2.7.1",
- "sha256": "33f9c6d495677475e1d9300c4bc127eb5c5ea96317a13e2d4ea8beefc985354e",
- "size": 95748451,
+ "version": "2.8.0",
+ "sha256": "659b64d6064ebe028a0e0805e97a8fe639f9b1b3415783fd56bb52be2c0132f9",
+ "size": 95758436,
  "parts": [
-  "RomajiLyrics-2.7.1.exe.001",
-  "RomajiLyrics-2.7.1.exe.002",
-  "RomajiLyrics-2.7.1.exe.003"
+  "RomajiLyrics-2.8.0.exe.001",
+  "RomajiLyrics-2.8.0.exe.002",
+  "RomajiLyrics-2.8.0.exe.003"
  ],
- "notes": "Romaji Lyrics 2.7.1 ✿\n• Synchro syllabe par syllabe : ouvrir « Choisir une ligne dans la liste » quitte automatiquement le suivi de la chanson, la ligne ne bouge plus pendant que tu choisis\n• Rappel 2.7 : tapotement refait avec options avancées, karaoké lettre par lettre"
+ "notes": "Romaji Lyrics 2.8.0 ✿\n• Clips plus fiables : vidéos non intégrables écartées, lecteur de secours (erreur 153), préchargement du clip, clip qui marche retenu\n• Boucle sur un passage (Ctrl+L, palette : début/fin)\n• Notes ✎ sur une ligne ou une chanson\n• Chanson du jour, bouton « Reprendre » la dernière chanson\n• Page Diagnostic (palette) pour comprendre les erreurs\n• Remplissage lettre par lettre aussi sur la page Paroles, couleur au choix\n• Temps d'écoute par chanson dans les stats"
 }
