@@ -1,7 +1,7 @@
 {
- "versionCode": 51,
- "versionName": "4.35",
- "file": "android/RomajiLyrics-Android-4.35.apk",
- "sha256": "002609aecbbc75a8981afc8f21eaa6921e824ab08ec08837056d4798f3c45679",
- "notes": "• Garde-robe de Kotone agrandie : cinq tenues (Idole bleue, Décontractée, Streetwear, Kimono fleuri, Idole nuit étoilée), six nouveaux compagnons (chat, chiot, lapin blanc, perruche, ourson, renard à neuf queues) et cinq décors (chambre, ciel étoilé, salle de classe, rue et café, scène de concert)\n• Les tenues et compagnons se débloquent en apprenant ; la tenue Décontractée et le décor Chambre sont offerts\n• Les décors s'affichent derrière Kotone dans la garde-robe, dans l'écran d'accueil sans musique, et chaque chapitre de l'histoire a le sien\n• Voix en ligne : les erreurs d'ElevenLabs et de Google sont expliquées en clair (voix payante, crédits épuisés, clé refusée)"
+ "versionCode": 52,
+ "versionName": "4.36",
+ "file": "android/RomajiLyrics-Android-4.36.apk",
+ "sha256": "68a972305dae36579b153fcc41dfa2df4d6b5639736b979d242ad87bc7ebdd56",
+ "notes": "• Les tenues de Kotone (Décontractée, Streetwear, Kimono fleuri, Idole nuit étoilée) bougent maintenant comme l'Idole bleue : la tête se balance, la queue de cheval ondule, elle respire. Au « coucou », les tenues sans image de salut font un petit saut\n• L'onglet « Couleur » de la garde-robe change maintenant le bleu de toutes les tenues\n• Garde-robe agrandie : cinq tenues, six nouveaux compagnons (chat, chiot, lapin blanc, perruche, ourson, renard à neuf queues) et cinq décors (chambre, ciel étoilé, salle de classe, rue et café, scène de concert), à débloquer en apprenant. La tenue Décontractée et le décor Chambre sont offerts\n• Les décors s'affichent derrière Kotone dans la garde-robe et l'écran d'accueil sans musique ; chaque chapitre de l'histoire a le sien\n• Voix en ligne : les erreurs d'ElevenLabs et de Google sont expliquées en clair"
 }
