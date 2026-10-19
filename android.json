@@ -1,7 +1,7 @@
 {
- "versionCode": 50,
- "versionName": "4.34",
- "file": "android/RomajiLyrics-Android-4.34.apk",
- "sha256": "f1a1a33d5822d72437c6e78e9ea79514a62b11121c62e2ce3c24d416fffaa456",
- "notes": "• Musique originale de Kotone : un thème instrumental et une version avec vocalise (voix de synthèse sans paroles) jouent pendant le prologue ; un petit jingle annonce les nouveaux chapitres ; une version douce accompagne la lecture des chapitres. Bouton « ♪ musique » dans le prologue, et réglage dédié. La musique baisse le son de Spotify le temps du prologue\n• Voix plus naturelles : choisis Google Cloud ou ElevenLabs (avec ta propre clé) dans Réglages → Voix et musique. Chaque phrase n'est demandée qu'une fois puis gardée sur le téléphone (relecture gratuite et hors ligne), avec un plafond de caractères par mois et un bouton pour enregistrer toute l'histoire d'un coup. Sans clé, Kotone garde la voix du téléphone\n• Kotone est plus grande dans toute l'application (en-têtes, réglages, professeur, écrans d'apprentissage)\n• Voix en ligne : les erreurs d'ElevenLabs et de Google sont maintenant expliquées en clair (voix payante, crédits épuisés, clé refusée) au lieu d'un message générique"
+ "versionCode": 51,
+ "versionName": "4.35",
+ "file": "android/RomajiLyrics-Android-4.35.apk",
+ "sha256": "002609aecbbc75a8981afc8f21eaa6921e824ab08ec08837056d4798f3c45679",
+ "notes": "• Garde-robe de Kotone agrandie : cinq tenues (Idole bleue, Décontractée, Streetwear, Kimono fleuri, Idole nuit étoilée), six nouveaux compagnons (chat, chiot, lapin blanc, perruche, ourson, renard à neuf queues) et cinq décors (chambre, ciel étoilé, salle de classe, rue et café, scène de concert)\n• Les tenues et compagnons se débloquent en apprenant ; la tenue Décontractée et le décor Chambre sont offerts\n• Les décors s'affichent derrière Kotone dans la garde-robe, dans l'écran d'accueil sans musique, et chaque chapitre de l'histoire a le sien\n• Voix en ligne : les erreurs d'ElevenLabs et de Google sont expliquées en clair (voix payante, crédits épuisés, clé refusée)"
 }
