@@ -1,11 +1,11 @@
 {
- "version": "2.14.0",
- "sha256": "fed6be3a9472f223560135add491028f4211831721c590de744a316d77ca5f0b",
- "size": 113367308,
+ "version": "2.15.0",
+ "sha256": "a2ab694d7e9cf96c429fd4781313eb7b9db20522e12ba97589edefc1e4776b0d",
+ "size": 117740812,
  "parts": [
-  "RomajiLyrics-2.14.0.exe.001",
-  "RomajiLyrics-2.14.0.exe.002",
-  "RomajiLyrics-2.14.0.exe.003"
+  "RomajiLyrics-2.15.0.exe.001",
+  "RomajiLyrics-2.15.0.exe.002",
+  "RomajiLyrics-2.15.0.exe.003"
  ],
- "notes": "Romaji Lyrics 2.14.0 ✿\n• Musique originale de Kotone : un thème instrumental et une version avec vocalise jouent pendant le prologue ; un petit jingle annonce les nouveaux chapitres ; une version douce accompagne la lecture des chapitres. Bouton « ♪ musique » dans le prologue, et réglage dédié (Windows ne baisse pas Spotify : coupe-la si besoin)\n• Voix plus naturelles : choisis Google Cloud ou ElevenLabs (avec ta propre clé) dans Réglages → Voix et musique de Kotone. Chaque phrase n'est demandée qu'une fois puis gardée sur le PC (relecture gratuite et hors ligne), avec un plafond de caractères par mois et un bouton pour enregistrer toute l'histoire d'un coup. Sans clé, Kotone garde la voix de Windows\n• Kotone est plus grande dans toute l'application (barre de titre, apprentissage, karaoké, accueil)"
+ "notes": "Romaji Lyrics 2.15.0 ✿\n• Garde-robe de Kotone agrandie : 5 tenues (Idole bleue, Décontractée, Streetwear, Kimono fleuri, Idole nuit étoilée) qui bougent comme Kotone (tête, queue de cheval), poses de la Décontractée, et un onglet « Couleur » pour changer le bleu des tenues\n• 6 nouveaux compagnons dessinés (chat tigré, chiot, lapin blanc, perruche, ourson, renard à neuf queues) à débloquer en apprenant\n• 5 décors derrière Kotone (chambre, ciel étoilé, salle de classe, rue et café, scène de concert) : aussi dans l'histoire, chapitre par chapitre, et sur la page de paroles vide\n• Voix en ligne : messages d'erreur plus clairs (offre payante requise, crédit épuisé, clé refusée)"
 }
