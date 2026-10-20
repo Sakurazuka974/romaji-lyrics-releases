@@ -1,7 +1,7 @@
 {
- "versionCode": 58,
- "versionName": "4.42",
- "file": "android/RomajiLyrics-Android-4.42.apk",
- "sha256": "aeacea458974bd82c6e31b06e675d5bc61f69d60e00598f5b6946cdc7ae5020c",
- "notes": "Kotone écoute vraiment la chanson ✿\n• Elle réagit aux mots des paroles : larmes sur « namida », mine triste sur « sayonara » ou « kanashii », cœur sur « suki » et « ai », saut de joie sur les mots heureux, micro en main quand ça parle de chanter\n• Nouveau « Mot du jour » (menu Apprendre → Exercices) : un mot différent chaque jour présenté par Kotone, avec écoute et 3 questions"
+ "versionCode": 59,
+ "versionName": "4.43",
+ "file": "android/RomajiLyrics-Android-4.43.apk",
+ "sha256": "abcca3cdc8b129f617a0f9130f24b714920f8ba3a480a8aa1a56ff183895a3a6",
+ "notes": "Après chaque chapitre, une épreuve et un souvenir ✿\n• À la fin d'un chapitre de l'histoire : une épreuve du chapitre (5 questions, +15 XP bonus la première fois) et une carte souvenir à garder ou partager (décor du chapitre, Kotone en tenue, ton prénom et la date)\n• Deux nouvelles émotions pour Kotone : surprise (mains sur les joues) et peur (elle tremble, les mains sur la bouche), avec l'idole, la décontractée et le yukata\n• Elle prend peur face à Écho et dans l'histoire d'Halloween, et ouvre grand les yeux quand toutes les étoiles reviennent"
 }
