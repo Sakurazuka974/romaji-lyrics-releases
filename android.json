@@ -1,7 +1,7 @@
 {
- "versionCode": 54,
- "versionName": "4.38",
- "file": "android/RomajiLyrics-Android-4.38.apk",
- "sha256": "8fc3889777f68eccd9e88472ca7def47a6d611f2148ade2224f3d49f2d4e29bc",
- "notes": "Kotone change de look : nouveau style, plus kawaii ✿\n• Toute la garde-robe est redessinée : l'Idole bleue (robe à froufrous) et ses 16 poses (chante, court, s'assoit, clin d'œil, amoureuse, fâchée…), le « coucou », la Décontractée, le Streetwear, le Yukata d'été et l'Idole nuit étoilée\n• Quatre nouvelles tenues à débloquer : Professeure, Uniforme marin, Pyjama doudou et Robe d'été\n• Les six compagnons sont redessinés (chat, chiot, lapin, poussin, ourson, renard) et l'icône de l'app change\n• Kotone cligne des yeux dans toutes ses tenues et poses\n• Le short de la Décontractée est de la même couleur dans toutes les poses"
+ "versionCode": 55,
+ "versionName": "4.39",
+ "file": "android/RomajiLyrics-Android-4.39.apk",
+ "sha256": "c9846ba12ee5048cf6aed9e95cba90072a457fb515a2f12b0704da904679164f",
+ "notes": "Kotone est plus joyeuse, et l'écran est plus léger ✿\n• Tous ses visages sourient : toutes les tenues et ses poses joyeuses ont été redessinées avec son grand sourire\n• Écran Paroles épuré : en-tête réduit (le reste est dans le menu ⋯), modes en petits onglets discrets, écran d'accueil sans chevauchement\n• Kotone sourit : nouvelle tenue Décontractée toute souriante, elle ne dort plus que la nuit et se réjouit en musique\n• Elle s'habille selon les fêtes : Noël, Halloween, Saint-Valentin, Pâques, Nouvel An, Fête de la musique\n• Elle s'habille selon la météo de ta ville (Réglages → Apparence) : ciré jaune sous la pluie, manteau quand il fait froid, tenue d'été sous le soleil, avec pluie ou neige en fond\n• Elle réagit à l'heure, à la météo, aux fêtes, et te fait la tête si tu l'abandonnes plusieurs jours\n• Les tenues de saison se débloquent quand tu les vois et restent dans ta garde-robe"
 }
