@@ -1,11 +1,11 @@
 {
- "version": "2.20.0",
- "sha256": "87b26480d94c1b2df1cfff3072567c4a9036ef606ccb1a3bd5ccd2e171420449",
- "size": 119156492,
+ "version": "2.21.0",
+ "sha256": "28a4c73bba08180cf90255552b8115aa2e7c9f399f429c7faee28fbeca839ec7",
+ "size": 120896268,
  "parts": [
-  "RomajiLyrics-2.20.0.exe.001",
-  "RomajiLyrics-2.20.0.exe.002",
-  "RomajiLyrics-2.20.0.exe.003"
+  "RomajiLyrics-2.21.0.exe.001",
+  "RomajiLyrics-2.21.0.exe.002",
+  "RomajiLyrics-2.21.0.exe.003"
  ],
- "notes": "Kotone écoute vraiment la chanson ✿\n• Elle réagit aux mots des paroles : larmes sur « namida », mine triste sur « sayonara » ou « kanashii », cœur sur « suki » et « ai », saut de joie sur les mots heureux, micro en main quand ça parle de chanter\n• Nouveau « Mot du jour » (menu Apprendre → Exercices) : un mot différent chaque jour présenté par Kotone, avec écoute et 3 questions"
+ "notes": "Après chaque chapitre, une épreuve et un souvenir ✿\n• À la fin d'un chapitre de l'histoire : une épreuve du chapitre (5 questions, +15 XP bonus la première fois) et une carte souvenir à garder ou partager (décor du chapitre, Kotone en tenue, ton prénom et la date)\n• Deux nouvelles émotions pour Kotone : surprise (mains sur les joues) et peur (elle tremble, les mains sur la bouche), avec l'idole, la décontractée et le yukata\n• Elle prend peur face à Écho et dans l'histoire d'Halloween, et ouvre grand les yeux quand toutes les étoiles reviennent"
 }
