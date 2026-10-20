@@ -1,11 +1,11 @@
 {
- "version": "2.16.0",
- "sha256": "27ed622ad524d86b02837156e2f8b230d56714fbacf96367375d6b16f589f138",
- "size": 113164556,
+ "version": "2.17.0",
+ "sha256": "3885e4474b6296098d138ece58e951c27babf43651c7e19043a776f7585d174f",
+ "size": 115691788,
  "parts": [
-  "RomajiLyrics-2.16.0.exe.001",
-  "RomajiLyrics-2.16.0.exe.002",
-  "RomajiLyrics-2.16.0.exe.003"
+  "RomajiLyrics-2.17.0.exe.001",
+  "RomajiLyrics-2.17.0.exe.002",
+  "RomajiLyrics-2.17.0.exe.003"
  ],
- "notes": "Romaji Lyrics 2.16.0 ✿\n• Kotone change de look : nouveau style plus kawaii. Toute la garde-robe est redessinée : l'Idole bleue (robe à froufrous) et ses 16 poses, le « coucou », la Décontractée, le Streetwear, le Yukata d'été et l'Idole nuit étoilée\n• Quatre nouvelles tenues à débloquer : Professeure, Uniforme marin, Pyjama doudou et Robe d'été\n• Les six compagnons sont redessinés (chat, chiot, lapin, poussin, ourson, renard) et l'icône de l'app change\n• Kotone cligne des yeux dans toutes ses tenues et poses\n• Tenue Décontractée : le short a la même couleur (jean) dans toutes les poses"
+ "notes": "Kotone est plus joyeuse ✿\n• Toutes ses tenues et ses poses joyeuses ont maintenant son grand sourire\n• Elle s'habille selon les fêtes : Noël, Halloween, Saint-Valentin, Pâques, Nouvel An, Fête de la musique\n• Elle s'habille selon la météo de ta ville (Réglages → Apparence) : ciré jaune sous la pluie, manteau quand il fait froid, tenue d'été sous le soleil\n• Elle réagit à l'heure, à la météo et aux fêtes, et te fait la tête si tu l'abandonnes plusieurs jours\n• Elle ne dort plus que la nuit\n• Les tenues de saison se débloquent quand tu les vois et restent dans la garde-robe"
 }
