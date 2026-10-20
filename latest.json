@@ -2,6 +2,11 @@
  "version": "2.22.0",
  "sha256": "841093a66bdf40fce48c5f69c4ccd6e82a5f17f227a2a956ea65cc760b22e101",
  "size": 126350092,
- "parts": 4,
+ "parts": [
+  "RomajiLyrics-2.22.0.exe.001",
+  "RomajiLyrics-2.22.0.exe.002",
+  "RomajiLyrics-2.22.0.exe.003",
+  "RomajiLyrics-2.22.0.exe.004"
+ ],
  "notes": "Kotone chante avec toi en karaoké ✿\n• En plein écran karaoké, Kotone apparaît en haut à droite : elle chante avec le micro pendant les paroles, pleure ou sourit selon les mots, et fait un cœur sur les passages d'amour\n• Elle est triste ou pleure aussi avec ses autres tenues (été, hiver, marin, pluie, Noël, Pâques, Halloween, chemise, uniforme, musique, pyjama, professeure…), plus seulement avec l'idole, la décontractée et le yukata\n"
 }
