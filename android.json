@@ -1,7 +1,7 @@
 {
- "versionCode": 59,
- "versionName": "4.43",
- "file": "android/RomajiLyrics-Android-4.43.apk",
- "sha256": "abcca3cdc8b129f617a0f9130f24b714920f8ba3a480a8aa1a56ff183895a3a6",
- "notes": "Après chaque chapitre, une épreuve et un souvenir ✿\n• À la fin d'un chapitre de l'histoire : une épreuve du chapitre (5 questions, +15 XP bonus la première fois) et une carte souvenir à garder ou partager (décor du chapitre, Kotone en tenue, ton prénom et la date)\n• Deux nouvelles émotions pour Kotone : surprise (mains sur les joues) et peur (elle tremble, les mains sur la bouche), avec l'idole, la décontractée et le yukata\n• Elle prend peur face à Écho et dans l'histoire d'Halloween, et ouvre grand les yeux quand toutes les étoiles reviennent"
+ "versionCode": 60,
+ "versionName": "4.44",
+ "file": "android/RomajiLyrics-Android-4.44.apk",
+ "sha256": "ab73494fd623689a4813b384bf9893c0be3d7ec551b81a06e64ba3fdc42328f4",
+ "notes": "Kotone chante avec toi en karaoké ✿\n• En plein écran karaoké, Kotone apparaît en haut à droite : elle chante avec le micro pendant les paroles, pleure ou sourit selon les mots, et fait un cœur sur les passages d'amour\n• Elle est triste ou pleure aussi avec ses autres tenues (été, hiver, marin, pluie, Noël, Pâques, Halloween, chemise, uniforme, musique, pyjama, professeure…), plus seulement avec l'idole, la décontractée et le yukata"
 }
