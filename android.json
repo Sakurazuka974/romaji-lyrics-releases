@@ -1,7 +1,7 @@
 {
- "versionCode": 52,
- "versionName": "4.36",
- "file": "android/RomajiLyrics-Android-4.36.apk",
- "sha256": "bf4b7c6a0cc02a03bb68b8bd6ca422031329357d7a84ffee108900ad95f4d4af",
- "notes": "• Les tenues de Kotone (Décontractée, Streetwear, Kimono fleuri, Idole nuit étoilée) bougent maintenant comme l'Idole bleue : la tête se balance, la queue de cheval ondule, elle respire. Au « coucou », les tenues sans image de salut font un petit saut\n• L'onglet « Couleur » de la garde-robe change maintenant le bleu de toutes les tenues\n• Garde-robe agrandie : cinq tenues, six nouveaux compagnons (chat, chiot, lapin blanc, perruche, ourson, renard à neuf queues) et cinq décors (chambre, ciel étoilé, salle de classe, rue et café, scène de concert), à débloquer en apprenant. La tenue Décontractée et le décor Chambre sont offerts\n• Les décors s'affichent derrière Kotone dans la garde-robe et l'écran d'accueil sans musique ; chaque chapitre de l'histoire a le sien\n• Voix en ligne : les erreurs d'ElevenLabs et de Google sont expliquées en clair"
+ "versionCode": 54,
+ "versionName": "4.38",
+ "file": "android/RomajiLyrics-Android-4.38.apk",
+ "sha256": "8fc3889777f68eccd9e88472ca7def47a6d611f2148ade2224f3d49f2d4e29bc",
+ "notes": "Kotone change de look : nouveau style, plus kawaii ✿\n• Toute la garde-robe est redessinée : l'Idole bleue (robe à froufrous) et ses 16 poses (chante, court, s'assoit, clin d'œil, amoureuse, fâchée…), le « coucou », la Décontractée, le Streetwear, le Yukata d'été et l'Idole nuit étoilée\n• Quatre nouvelles tenues à débloquer : Professeure, Uniforme marin, Pyjama doudou et Robe d'été\n• Les six compagnons sont redessinés (chat, chiot, lapin, poussin, ourson, renard) et l'icône de l'app change\n• Kotone cligne des yeux dans toutes ses tenues et poses\n• Le short de la Décontractée est de la même couleur dans toutes les poses"
 }
