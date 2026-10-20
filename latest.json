@@ -1,11 +1,11 @@
 {
- "version": "2.19.0",
- "sha256": "43b01e18059f4ca0cd46603d81a65c48aa7178fe4102530b20429184ef5664c2",
- "size": 119150860,
+ "version": "2.20.0",
+ "sha256": "87b26480d94c1b2df1cfff3072567c4a9036ef606ccb1a3bd5ccd2e171420449",
+ "size": 119156492,
  "parts": [
-  "RomajiLyrics-2.19.0.exe.001",
-  "RomajiLyrics-2.19.0.exe.002",
-  "RomajiLyrics-2.19.0.exe.003"
+  "RomajiLyrics-2.20.0.exe.001",
+  "RomajiLyrics-2.20.0.exe.002",
+  "RomajiLyrics-2.20.0.exe.003"
  ],
- "notes": "Kotone joue enfin ses émotions ✿\n• Dans l'histoire, elle ne sourit plus tout le temps : abattue, la tête basse et les larmes aux yeux dans les passages tristes (la nuit où ses mots s'échappent, la peur de l'audition, le refrain perdu…), en larmes de soulagement quand toutes les étoiles reviennent\n• Quand elle chante, elle tient un vrai micro (idole, décontractée et yukata)\n• Nouvelles poses « triste » et « pleure » avec de vraies larmes qui coulent, et des traits sombres au-dessus de sa tête"
+ "notes": "Kotone écoute vraiment la chanson ✿\n• Elle réagit aux mots des paroles : larmes sur « namida », mine triste sur « sayonara » ou « kanashii », cœur sur « suki » et « ai », saut de joie sur les mots heureux, micro en main quand ça parle de chanter\n• Nouveau « Mot du jour » (menu Apprendre → Exercices) : un mot différent chaque jour présenté par Kotone, avec écoute et 3 questions"
 }
