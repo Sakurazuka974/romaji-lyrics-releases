@@ -1,7 +1,7 @@
 {
- "versionCode": 68,
- "versionName": "4.52",
- "file": "android/RomajiLyrics-Android-4.52.apk",
- "sha256": "fe4a0adb283d4a9ab821ddccad950a75aa868a633d3563aea41b8d96ae6b3d03",
- "notes": "Version 4.52\n• Prononciation : nouveau réglage « Reconnaissance hors ligne » (Apprendre → réglages ; désactivé = en ligne, plus précis)\n• Meilleure écoute des syllabes isolées : le micro attend un peu plus longtemps et Google est guidé vers le kana demandé"
+ "versionCode": 69,
+ "versionName": "4.53",
+ "file": "android/RomajiLyrics-Android-4.53.apk",
+ "sha256": "b44ae4c4bf6115206e4903ad2b055cc3b28ca2c52884ce3a0ee4690a6e6f789d",
+ "notes": "Version 4.53\n• Prononciation : si la reconnaissance échoue (langue ou réseau), l'appli retente automatiquement avec l'autre mode (en ligne / hors ligne)\n• Retour au réglage d'écoute de la 4.51, qui fonctionnait"
 }
