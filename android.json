@@ -1,7 +1,7 @@
 {
- "versionCode": 72,
- "versionName": "4.56",
- "file": "android/RomajiLyrics-Android-4.56.apk",
- "sha256": "edd03e6bff5c6147ad1095be7f845a6fbc22406193b389c3b56280a16f09dbeb",
- "notes": "Version 4.56\n• Prononciation d'un kana seul : la difficulté suit maintenant le réglage « Exigence » (Indulgente : n'importe quelle proposition de Google ; Normale : la meilleure proposition ; Stricte : le son doit être dit au moins 2 fois). Le score dépend du nombre de fois où le son est reconnu."
+ "versionCode": 73,
+ "versionName": "4.57",
+ "file": "android/RomajiLyrics-Android-4.57.apk",
+ "sha256": "9125521511319a67f115cee8a9d346b386a908dffed18acde9833e48dc443d81",
+ "notes": "Version 4.57\n• La bulle de Kotone se déplace au doigt : glisse-la où tu veux, elle retient sa place (un tap la ferme toujours)\n• Nouveau réglage « Thème selon l'heure » : ambiance claire de 7 h à 19 h, « Nuit étoilée » le soir (Réglages → Apparence)"
 }
