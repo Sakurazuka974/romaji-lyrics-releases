@@ -1,7 +1,7 @@
 {
- "versionCode": 61,
- "versionName": "4.45",
- "file": "android/RomajiLyrics-Android-4.45.apk",
- "sha256": "66305a1c4743d2ecc089905f2d9d298736fbdc750c60ebeebe0a41a6f81744a4",
- "notes": "Le plein écran karaoké se rouvre toujours ✿\n• Correction : le bouton plein écran ne faisait parfois plus rien. Il se rouvre maintenant à coup sûr, et affiche un message clair si un problème survient"
+ "versionCode": 62,
+ "versionName": "4.46",
+ "file": "android/RomajiLyrics-Android-4.46.apk",
+ "sha256": "87f8db8ea6c12fdb8932b71b7dcc1ce26959fcc54c47da9d3ca97748de2c5dae",
+ "notes": "Un menu Kotone et un karaoké plus clair ✿\n• Nouveau menu « Kotone » : son histoire, sa garde-robe, « Demande à Kotone », le mot du jour, le quiz des fêtes, la prononciation et tous ses réglages au même endroit (Android : Menu → Kotone ; Windows : menu Kotone ✿)\n• Karaoké plein écran : Kotone chante maintenant en bas à droite, plus petite, et s'efface quand les commandes s'affichent pour ne plus couvrir les paroles. Un réglage « Kotone chante en karaoké » permet de la couper\n• Android : dans un menu, la flèche de retour reste affichée même quand tu fais défiler la liste, et plusieurs sous-menus (fêtes, histoire, mot du jour, dojo des kana, studio) te ramènent au menu d'où tu viens"
 }
