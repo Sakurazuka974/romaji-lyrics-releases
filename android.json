@@ -1,7 +1,7 @@
 {
- "versionCode": 77,
- "versionName": "4.61",
- "file": "android/RomajiLyrics-Android-4.61.apk",
- "sha256": "cbf564c427251696478103f178920e4f6a03581ab82d6ce6cc7d98fe7cb405a0",
- "notes": "Version 4.61\n• Karaoké points façon UltraStar : touche « 🎤 Points » en plein écran (avec un casque !), chante, et gagne des points syllabe par syllabe\n• Rythme + stabilité de la voix : Perfect / Bien / Ok, série de combos, score sur 10 000, note de S à D et record par chanson\n• Attention : la justesse des notes de la mélodie n'est pas mesurée (l'appli ne connaît pas la mélodie)"
+ "versionCode": 78,
+ "versionName": "4.62",
+ "file": "android/RomajiLyrics-Android-4.62.apk",
+ "sha256": "70a232931175e82e992c1c704a9b6147fecb3412a03ede92fb2217ad793f4caa",
+ "notes": "Version 4.62\n• Le Karaoké points a son propre menu : Réglages → Karaoké points, et Menu → Écoute → Karaoké points\n• Tu peux l'activer / le désactiver (désactivé : plus de bouton ni de micro), régler la sensibilité du micro, la tolérance du rythme, et voir tes meilleurs scores"
 }
