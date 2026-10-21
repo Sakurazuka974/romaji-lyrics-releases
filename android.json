@@ -1,7 +1,7 @@
 {
- "versionCode": 60,
- "versionName": "4.44",
- "file": "android/RomajiLyrics-Android-4.44.apk",
- "sha256": "ab73494fd623689a4813b384bf9893c0be3d7ec551b81a06e64ba3fdc42328f4",
- "notes": "Kotone chante avec toi en karaoké ✿\n• En plein écran karaoké, Kotone apparaît en haut à droite : elle chante avec le micro pendant les paroles, pleure ou sourit selon les mots, et fait un cœur sur les passages d'amour\n• Elle est triste ou pleure aussi avec ses autres tenues (été, hiver, marin, pluie, Noël, Pâques, Halloween, chemise, uniforme, musique, pyjama, professeure…), plus seulement avec l'idole, la décontractée et le yukata"
+ "versionCode": 61,
+ "versionName": "4.45",
+ "file": "android/RomajiLyrics-Android-4.45.apk",
+ "sha256": "66305a1c4743d2ecc089905f2d9d298736fbdc750c60ebeebe0a41a6f81744a4",
+ "notes": "Le plein écran karaoké se rouvre toujours ✿\n• Correction : le bouton plein écran ne faisait parfois plus rien. Il se rouvre maintenant à coup sûr, et affiche un message clair si un problème survient"
 }
