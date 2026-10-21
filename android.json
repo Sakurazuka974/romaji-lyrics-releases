@@ -1,7 +1,7 @@
 {
- "versionCode": 65,
- "versionName": "4.49",
- "file": "android/RomajiLyrics-Android-4.49.apk",
- "sha256": "fa1962730463805d35b10e71976b82dbc703aba6ba77f68fdf0018e651f2603a",
- "notes": "La prononciation t'aide à installer le japonais ✿\n• Si la reconnaissance vocale japonaise manque, l'exercice de prononciation explique quoi faire en 3 étapes et ouvre directement les réglages vocaux du téléphone\n• Réglages : les options de Kotone (elle parle, IA, animations, tenues, habillage de fête, prologue) ne sont plus qu'à un seul endroit : Réglages → Kotone"
+ "versionCode": 66,
+ "versionName": "4.50",
+ "file": "android/RomajiLyrics-Android-4.50.apk",
+ "sha256": "a9c03f49b3b4d000876e8fc7e44630f192378b240a792c74d3bb2d198757914f",
+ "notes": "Version 4.50\n• Réglages : la flèche de retour reste en haut quand on fait défiler une catégorie\n• Prononciation : le bouton ouvre maintenant les réglages utiles (Google / clavier) avec des étapes plus claires pour installer le japonais\n• Les bulles de Kotone sont plus discrètes : plus courtes et légèrement transparentes sur les paroles"
 }
