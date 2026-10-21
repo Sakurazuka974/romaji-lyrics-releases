@@ -1,7 +1,7 @@
 {
- "versionCode": 75,
- "versionName": "4.59",
- "file": "android/RomajiLyrics-Android-4.59.apk",
- "sha256": "3b58c600a3a0a2b14a92e86af439522c15954b3325947539c550d0b89952ca3a",
- "notes": "Version 4.59\n• 3 nouveaux badges : Première ligne chantée, Chanteuse (20 lignes), Diva (100 lignes) avec « Chante avec Kotone »\n• Après une ligne réussie, bouton « Partager mon score » : la carte de partage affiche « Chantée avec Kotone : 92 / 100 »"
+ "versionCode": 76,
+ "versionName": "4.60",
+ "file": "android/RomajiLyrics-Android-4.60.apk",
+ "sha256": "09377870cfd204ae1466ab0d0514b2d656ebcf8718a957fbcd29b2188f142ca3",
+ "notes": "Version 4.60\n• Chante avec Kotone : le modèle est maintenant la chanson d'origine ! Elle joue la ligne choisie (avec un petit départ avant) et se met en pause pile à la fin de la ligne, puis c'est à toi\n• Le micro s'ouvre après avoir coupé la musique pour ne pas capter l'original"
 }
