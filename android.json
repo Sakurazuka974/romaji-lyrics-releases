@@ -1,7 +1,7 @@
 {
- "versionCode": 76,
- "versionName": "4.60",
- "file": "android/RomajiLyrics-Android-4.60.apk",
- "sha256": "09377870cfd204ae1466ab0d0514b2d656ebcf8718a957fbcd29b2188f142ca3",
- "notes": "Version 4.60\n• Chante avec Kotone : le modèle est maintenant la chanson d'origine ! Elle joue la ligne choisie (avec un petit départ avant) et se met en pause pile à la fin de la ligne, puis c'est à toi\n• Le micro s'ouvre après avoir coupé la musique pour ne pas capter l'original"
+ "versionCode": 77,
+ "versionName": "4.61",
+ "file": "android/RomajiLyrics-Android-4.61.apk",
+ "sha256": "cbf564c427251696478103f178920e4f6a03581ab82d6ce6cc7d98fe7cb405a0",
+ "notes": "Version 4.61\n• Karaoké points façon UltraStar : touche « 🎤 Points » en plein écran (avec un casque !), chante, et gagne des points syllabe par syllabe\n• Rythme + stabilité de la voix : Perfect / Bien / Ok, série de combos, score sur 10 000, note de S à D et record par chanson\n• Attention : la justesse des notes de la mélodie n'est pas mesurée (l'appli ne connaît pas la mélodie)"
 }
