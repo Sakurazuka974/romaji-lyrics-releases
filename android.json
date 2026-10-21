@@ -1,7 +1,7 @@
 {
- "versionCode": 63,
- "versionName": "4.47",
- "file": "android/RomajiLyrics-Android-4.47.apk",
- "sha256": "89e27b751aab639bb0600c62d3cb843831ce08c4f35e769997a2dcd73b843619",
- "notes": "Un écran Kotone dans Réglages, et un « Avancé » bien rempli ✿\n• Réglages → Kotone : elle parle, chante en karaoké, répond avec l'IA, voix, musique de l'histoire, animations, tenues et habillage de fête, garde-robe et prologue, au même endroit\n• Réglages → Avancé : sauvegarder et restaurer mes données, diagnostic, copier les infos de l'appli, signaler un problème, remettre les menus comme au début (en plus de « Quitter »)"
+ "versionCode": 64,
+ "versionName": "4.48",
+ "file": "android/RomajiLyrics-Android-4.48.apk",
+ "sha256": "e715d9bdc34de6105ffac0f2abea6dd575a32d828df620e8b850b827c855b38d",
+ "notes": "Kotone plus visible en karaoké, astuces des kana lisibles ✿\n• Karaoké plein écran : Kotone est un peu plus grande en bas à droite, pour qu'on la voie bien chanter avec son micro\n• Android : dans la leçon des hiragana, l'astuce mémo d'un kana s'affiche maintenant en haut de la fenêtre et ne cache plus la grille"
 }
