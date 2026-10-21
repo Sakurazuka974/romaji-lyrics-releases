@@ -1,12 +1,12 @@
 {
- "version": "2.23.0",
- "sha256": "7b9fe7fada18ee72f682c83ecf5a8925c09ceedfa4cb7a23914b1b14a196354f",
+ "version": "2.24.0",
+ "sha256": "b8fc10b88f5718570981c62e400dd8da7bbe69a797b11e4edc65fa5c62068f83",
  "size": 126351628,
  "parts": [
-  "RomajiLyrics-2.23.0.exe.001",
-  "RomajiLyrics-2.23.0.exe.002",
-  "RomajiLyrics-2.23.0.exe.003",
-  "RomajiLyrics-2.23.0.exe.004"
+  "RomajiLyrics-2.24.0.exe.001",
+  "RomajiLyrics-2.24.0.exe.002",
+  "RomajiLyrics-2.24.0.exe.003",
+  "RomajiLyrics-2.24.0.exe.004"
  ],
- "notes": "Un menu Kotone et un karaoké plus clair ✿\n• Nouveau menu « Kotone » : son histoire, sa garde-robe, « Demande à Kotone », le mot du jour, le quiz des fêtes, la prononciation et tous ses réglages au même endroit (Android : Menu → Kotone ; Windows : menu Kotone ✿)\n• Karaoké plein écran : Kotone chante maintenant en bas à droite, plus petite, et s'efface quand les commandes s'affichent pour ne plus couvrir les paroles. Un réglage « Kotone chante en karaoké » permet de la couper\n• Android : dans un menu, la flèche de retour reste affichée même quand tu fais défiler la liste, et plusieurs sous-menus (fêtes, histoire, mot du jour, dojo des kana, studio) te ramènent au menu d'où tu viens\n"
+ "notes": "Kotone plus visible en karaoké, astuces des kana lisibles ✿\n• Karaoké plein écran : Kotone est un peu plus grande en bas à droite, pour qu'on la voie bien chanter avec son micro\n• Android : dans la leçon des hiragana, l'astuce mémo d'un kana s'affiche maintenant en haut de la fenêtre et ne cache plus la grille\n"
 }
