@@ -1,12 +1,12 @@
 {
- "version": "2.22.0",
- "sha256": "841093a66bdf40fce48c5f69c4ccd6e82a5f17f227a2a956ea65cc760b22e101",
- "size": 126350092,
+ "version": "2.23.0",
+ "sha256": "7b9fe7fada18ee72f682c83ecf5a8925c09ceedfa4cb7a23914b1b14a196354f",
+ "size": 126351628,
  "parts": [
-  "RomajiLyrics-2.22.0.exe.001",
-  "RomajiLyrics-2.22.0.exe.002",
-  "RomajiLyrics-2.22.0.exe.003",
-  "RomajiLyrics-2.22.0.exe.004"
+  "RomajiLyrics-2.23.0.exe.001",
+  "RomajiLyrics-2.23.0.exe.002",
+  "RomajiLyrics-2.23.0.exe.003",
+  "RomajiLyrics-2.23.0.exe.004"
  ],
- "notes": "Kotone chante avec toi en karaoké ✿\n• En plein écran karaoké, Kotone apparaît en haut à droite : elle chante avec le micro pendant les paroles, pleure ou sourit selon les mots, et fait un cœur sur les passages d'amour\n• Elle est triste ou pleure aussi avec ses autres tenues (été, hiver, marin, pluie, Noël, Pâques, Halloween, chemise, uniforme, musique, pyjama, professeure…), plus seulement avec l'idole, la décontractée et le yukata\n"
+ "notes": "Un menu Kotone et un karaoké plus clair ✿\n• Nouveau menu « Kotone » : son histoire, sa garde-robe, « Demande à Kotone », le mot du jour, le quiz des fêtes, la prononciation et tous ses réglages au même endroit (Android : Menu → Kotone ; Windows : menu Kotone ✿)\n• Karaoké plein écran : Kotone chante maintenant en bas à droite, plus petite, et s'efface quand les commandes s'affichent pour ne plus couvrir les paroles. Un réglage « Kotone chante en karaoké » permet de la couper\n• Android : dans un menu, la flèche de retour reste affichée même quand tu fais défiler la liste, et plusieurs sous-menus (fêtes, histoire, mot du jour, dojo des kana, studio) te ramènent au menu d'où tu viens\n"
 }
