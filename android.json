@@ -1,7 +1,7 @@
 {
- "versionCode": 70,
- "versionName": "4.54",
- "file": "android/RomajiLyrics-Android-4.54.apk",
- "sha256": "955ff1da9de6e7320b2c96af5d562739301749499786d1af957f883af8e882ed",
- "notes": "Version 4.54\n• Prononciation : l'appli force le service vocal de Google et réessaie automatiquement avec d'autres modes si l'écoute échoue (erreur « code 11 »)"
+ "versionCode": 71,
+ "versionName": "4.55",
+ "file": "android/RomajiLyrics-Android-4.55.apk",
+ "sha256": "10a9b352806f5b21ac25a9595bc9ce846ef1596fcfc981cf33f46abd3af9d133",
+ "notes": "Version 4.55\n• Prononciation d'un kana seul : Kotone te demande de le dire 3 fois de suite et accepte si le son est reconnu dans l'une des propositions (Google comprend très mal une syllabe isolée)"
 }
