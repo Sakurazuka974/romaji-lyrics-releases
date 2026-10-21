@@ -1,7 +1,7 @@
 {
- "versionCode": 66,
- "versionName": "4.50",
- "file": "android/RomajiLyrics-Android-4.50.apk",
- "sha256": "a9c03f49b3b4d000876e8fc7e44630f192378b240a792c74d3bb2d198757914f",
- "notes": "Version 4.50\n• Réglages : la flèche de retour reste en haut quand on fait défiler une catégorie\n• Prononciation : le bouton ouvre maintenant les réglages utiles (Google / clavier) avec des étapes plus claires pour installer le japonais\n• Les bulles de Kotone sont plus discrètes : plus courtes et légèrement transparentes sur les paroles"
+ "versionCode": 67,
+ "versionName": "4.51",
+ "file": "android/RomajiLyrics-Android-4.51.apk",
+ "sha256": "cea28e9378ef58e984fc3a46da0d294c0b298afe9f40af247de8b896eb81ad37",
+ "notes": "Version 4.51\n• Prononciation : la reconnaissance fonctionne maintenant en ligne, sans pack japonais à télécharger\n• Romaji : les mots anglais avec apostrophe ou parenthèses s'affichent correctement (Don't, (test))\n• Bulle flottante : l'opacité du fond ne descend plus sous 60 % pour rester lisible"
 }
