@@ -1,7 +1,7 @@
 {
- "versionCode": 67,
- "versionName": "4.51",
- "file": "android/RomajiLyrics-Android-4.51.apk",
- "sha256": "cea28e9378ef58e984fc3a46da0d294c0b298afe9f40af247de8b896eb81ad37",
- "notes": "Version 4.51\n• Prononciation : la reconnaissance fonctionne maintenant en ligne, sans pack japonais à télécharger\n• Romaji : les mots anglais avec apostrophe ou parenthèses s'affichent correctement (Don't, (test))\n• Bulle flottante : l'opacité du fond ne descend plus sous 60 % pour rester lisible"
+ "versionCode": 68,
+ "versionName": "4.52",
+ "file": "android/RomajiLyrics-Android-4.52.apk",
+ "sha256": "fe4a0adb283d4a9ab821ddccad950a75aa868a633d3563aea41b8d96ae6b3d03",
+ "notes": "Version 4.52\n• Prononciation : nouveau réglage « Reconnaissance hors ligne » (Apprendre → réglages ; désactivé = en ligne, plus précis)\n• Meilleure écoute des syllabes isolées : le micro attend un peu plus longtemps et Google est guidé vers le kana demandé"
 }
