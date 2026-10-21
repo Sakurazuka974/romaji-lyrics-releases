@@ -1,7 +1,7 @@
 {
- "versionCode": 69,
- "versionName": "4.53",
- "file": "android/RomajiLyrics-Android-4.53.apk",
- "sha256": "5c3bc729f3c1839e6d404eaccc6047e4558909c89bc18cd76c62bd79d67d3acd",
- "notes": "Version 4.53\n• Prononciation : si la reconnaissance échoue (langue ou réseau), l'appli retente automatiquement avec l'autre mode (en ligne / hors ligne)\n• Retour au réglage d'écoute de la 4.51, qui fonctionnait"
+ "versionCode": 70,
+ "versionName": "4.54",
+ "file": "android/RomajiLyrics-Android-4.54.apk",
+ "sha256": "955ff1da9de6e7320b2c96af5d562739301749499786d1af957f883af8e882ed",
+ "notes": "Version 4.54\n• Prononciation : l'appli force le service vocal de Google et réessaie automatiquement avec d'autres modes si l'écoute échoue (erreur « code 11 »)"
 }
