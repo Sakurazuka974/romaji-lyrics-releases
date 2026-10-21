@@ -1,7 +1,7 @@
 {
- "versionCode": 64,
- "versionName": "4.48",
- "file": "android/RomajiLyrics-Android-4.48.apk",
- "sha256": "e715d9bdc34de6105ffac0f2abea6dd575a32d828df620e8b850b827c855b38d",
- "notes": "Kotone plus visible en karaoké, astuces des kana lisibles ✿\n• Karaoké plein écran : Kotone est un peu plus grande en bas à droite, pour qu'on la voie bien chanter avec son micro\n• Android : dans la leçon des hiragana, l'astuce mémo d'un kana s'affiche maintenant en haut de la fenêtre et ne cache plus la grille"
+ "versionCode": 65,
+ "versionName": "4.49",
+ "file": "android/RomajiLyrics-Android-4.49.apk",
+ "sha256": "fa1962730463805d35b10e71976b82dbc703aba6ba77f68fdf0018e651f2603a",
+ "notes": "La prononciation t'aide à installer le japonais ✿\n• Si la reconnaissance vocale japonaise manque, l'exercice de prononciation explique quoi faire en 3 étapes et ouvre directement les réglages vocaux du téléphone\n• Réglages : les options de Kotone (elle parle, IA, animations, tenues, habillage de fête, prologue) ne sont plus qu'à un seul endroit : Réglages → Kotone"
 }
