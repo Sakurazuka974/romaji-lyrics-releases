@@ -1,7 +1,7 @@
 {
- "versionCode": 78,
- "versionName": "4.62",
- "file": "android/RomajiLyrics-Android-4.62.apk",
- "sha256": "70a232931175e82e992c1c704a9b6147fecb3412a03ede92fb2217ad793f4caa",
- "notes": "Version 4.62\n• Le Karaoké points a son propre menu : Réglages → Karaoké points, et Menu → Écoute → Karaoké points\n• Tu peux l'activer / le désactiver (désactivé : plus de bouton ni de micro), régler la sensibilité du micro, la tolérance du rythme, et voir tes meilleurs scores"
+ "versionCode": 79,
+ "versionName": "4.63",
+ "file": "android/RomajiLyrics-Android-4.63.apk",
+ "sha256": "fde6264eb9c8e8e6c808cc269f3c0c702131516557d0ed5a28950da9ce8f1f67",
+ "notes": "Version 4.63\n• Plein écran : si l'ouverture échoue, un message long indique maintenant la cause exacte ; le bouton « Points » ne peut plus empêcher l'ouverture\n• Chante avec Kotone : un voyant indique si l'original est en lecture (avec le temps de départ visé et le temps réel du lecteur) pour comprendre les soucis de synchro"
 }
