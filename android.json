@@ -1,7 +1,7 @@
 {
- "versionCode": 81,
- "versionName": "4.65",
- "file": "android/RomajiLyrics-Android-4.65.apk",
- "sha256": "386fade71c8cc8b08413dc0dc6f93a94264f9227e51d2cb67f1c46a9e77df4b5",
- "notes": "Version 4.65\n• Karaoké points façon SingStar / UltraStar : une piste sous la ligne chantée avec une case par syllabe ; ta voix remplit les cases au rythme où tu chantes, la courbe de ta voix monte et descend, et chaque case est notée Perfect (doré), Bien (vert), Ok (orange) ou RATÉ (rouge)\n• Barre de score avec cinq étoiles, message de fin de ligne (« Ligne parfaite ! », « Ligne ratée… ») et étoiles sur l'écran de résultat\n• Plus d'exigence : réglage Détendu / Normal / Strict, seuil du micro qui s'adapte au bruit, voix mieux distinguée du bruit ; avertissement si aucun casque n'est branché\n• Plein écran : les syllabes déjà chantées sont bien plus contrastées, on voit le remplissage avancer\n• Chante avec Kotone : l'original démarre un peu plus tard et finit un peu plus tard (départ et fin mieux calés)"
+ "versionCode": 82,
+ "versionName": "4.66",
+ "file": "android/RomajiLyrics-Android-4.66.apk",
+ "sha256": "e5862263c0dd4e51c811973cf1224a53e9c1d0953c4b8813d22267fe3e6c450b",
+ "notes": "Version 4.66\n• Karaoké points avec fichier UltraStar : importe le .txt UltraStar d'un morceau (Écoute → Karaoké points → « Fichier UltraStar », ou Réglages) ; l'appli le cale toute seule sur les paroles synchronisées\n• La piste affiche alors les vraies notes de la chanson à leur hauteur (notes dorées en double) ; ta voix les remplit quand tu chantes juste, à l'octave près, puis chaque note est notée Perfect, Bien, Ok ou RATÉ\n• Bouton « Chercher le fichier » (recherche dans le navigateur avec le titre et l'artiste), « Importer un .txt », réglage fin ±0,1 s et « Retirer »\n• Détection de la hauteur de la voix plus précise"
 }
