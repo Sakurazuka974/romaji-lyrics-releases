@@ -1,7 +1,7 @@
 {
- "versionCode": 87,
- "versionName": "4.71",
- "file": "android/RomajiLyrics-Android-4.71.apk",
- "sha256": "03d31b20b28b6c10a4b5df4e787971d0deb95d733d5a0773b35da3fc780fdc6b",
- "notes": "Version 4.71\n• Karaoké points avec fichier UltraStar : l'appli recale maintenant toute seule les notes sur ta voix (±0,7 s), car le petit retard des paroles synchronisées et celui du micro faisaient rater même des notes bien chantées\n• Quand la chanson change (lecture suivante), les Points repartent de zéro avec les paroles et le fichier du nouveau morceau (avant, ils gardaient les notes de la chanson précédente)"
+ "versionCode": 88,
+ "versionName": "4.72",
+ "file": "android/RomajiLyrics-Android-4.72.apk",
+ "sha256": "4d081182d6ea310d0674e1359ca62266b100c68ac8b08e572712e20050815d3e",
+ "notes": "Version 4.72\n• Fichier UltraStar bien plus facile d'accès : Menu → « Fichier UltraStar du morceau », et un bouton 🎼 dans le karaoké plein écran (accent = fichier déjà chargé). Dans les réglages Points, la section est maintenant juste sous les interrupteurs\n• Recherche sur ultrastar-es.org affinée : le titre ou l'artiste japonais est converti en romaji (sans accents, sans parenthèses, mot le plus parlant) et deux boutons : par titre / par artiste\n• Import : le sélecteur s'ouvre dans Téléchargements, et un .txt UltraStar ouvert ou partagé vers l'appli s'associe tout seul au morceau en cours\n• Plein écran : le score ne chevauche plus la ligne précédente ; le bouton ✎ d'entraînement demande maintenant un appui long (plus de changement par erreur) ; l'avertissement « casque » n'apparaît qu'une fois\n\nVersion 4.71\n• Karaoké points avec fichier UltraStar : l'appli recale maintenant toute seule les notes sur ta voix (±0,7 s), car le petit retard des paroles synchronisées et celui du micro faisaient rater même des notes bien chantées\n• Quand la chanson change (lecture suivante), les Points repartent de zéro avec les paroles et le fichier du nouveau morceau (avant, ils gardaient les notes de la chanson précédente)"
 }
