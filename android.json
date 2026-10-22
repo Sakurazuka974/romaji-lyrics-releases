@@ -1,7 +1,7 @@
 {
- "versionCode": 79,
- "versionName": "4.63",
- "file": "android/RomajiLyrics-Android-4.63.apk",
- "sha256": "fde6264eb9c8e8e6c808cc269f3c0c702131516557d0ed5a28950da9ce8f1f67",
- "notes": "Version 4.63\n• Plein écran : si l'ouverture échoue, un message long indique maintenant la cause exacte ; le bouton « Points » ne peut plus empêcher l'ouverture\n• Chante avec Kotone : un voyant indique si l'original est en lecture (avec le temps de départ visé et le temps réel du lecteur) pour comprendre les soucis de synchro"
+ "versionCode": 80,
+ "versionName": "4.64",
+ "file": "android/RomajiLyrics-Android-4.64.apk",
+ "sha256": "5ad70a5d4e8c911de2f76c3ce7d34f89233820c095666b1c9192bbe174cd3874",
+ "notes": "Version 4.64\n• Chante avec Kotone : l'original s'arrête maintenant à la fin de la ligne (avant, il pouvait continuer très longtemps car la position du lecteur était en retard après le saut). La position est relue régulièrement et l'horloge réelle sert de garde-fou\n• Un petit texte indique l'extrait joué (de X à Y s) pour vérifier la synchro"
 }
