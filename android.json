@@ -1,7 +1,7 @@
 {
- "versionCode": 83,
- "versionName": "4.67",
- "file": "android/RomajiLyrics-Android-4.67.apk",
- "sha256": "4983ac99c657865d282c00943c5adf54344db44cd619e9309ead01de1631a4ec",
- "notes": "Version 4.67\n• Chante avec Kotone : la ligne affichée se remplit maintenant syllabe par syllabe, au rythme de l'original qui joue (tes syllabes calées à la main passent en priorité)\n• Karaoké points : l'état du fichier UltraStar se met à jour tout seul quand le morceau change (il affichait « Lance un morceau » à tort)"
+ "versionCode": 84,
+ "versionName": "4.68",
+ "file": "android/RomajiLyrics-Android-4.68.apk",
+ "sha256": "a63e2dfcd0b379fe953d70c572ea2dcb6008774aaf510a0b688edb83a5124fa0",
+ "notes": "Version 4.68\n• Quand un morceau a son fichier UltraStar, le remplissage des syllabes (plein écran, liste des paroles, Chante avec Kotone) suit maintenant les vraies notes de la chanson : chaque syllabe se remplit pile quand elle est chantée, les notes tenues (~) gardent la syllabe allumée plus longtemps\n• Bouton « Chercher le fichier » : recherche sur ultrastar-es.org avec le titre et l'artiste"
 }
