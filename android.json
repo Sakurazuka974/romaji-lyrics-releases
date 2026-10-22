@@ -1,7 +1,7 @@
 {
- "versionCode": 85,
- "versionName": "4.69",
- "file": "android/RomajiLyrics-Android-4.69.apk",
- "sha256": "c6af73743e3b8e753e72408e10a792ad369a25fbe87e9d0caa743eecd68f82d5",
- "notes": "Version 4.69\n• « Chercher le fichier » ouvre directement la recherche de chansons d'ultrastar-es.org (titre en lettres latines, sinon l'artiste) au lieu d'une recherche Google"
+ "versionCode": 86,
+ "versionName": "4.70",
+ "file": "android/RomajiLyrics-Android-4.70.apk",
+ "sha256": "bd713deaefccda76fc28ca85bd0dcbf5ea01eddfdcf4ee72e15bea0fefc9eca2",
+ "notes": "Version 4.70\n• Karaoké points avec fichier UltraStar : les notes très courtes qui se suivent (moins de 0,16 s) sont fusionnées en un seul bloc, pour ne plus être notées RATÉ à tort sur les chansons rapides ; le total de points possibles reste le même. Interrupteur « Fusionner les notes très courtes » (activé par défaut)"
 }
