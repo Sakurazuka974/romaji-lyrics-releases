@@ -1,7 +1,7 @@
 {
- "versionCode": 105,
- "versionName": "4.89",
- "file": "android/RomajiLyrics-Android-4.89.apk",
- "sha256": "129c9f276a30581759ae443469ca32eea88ce349213be5864dc7d796d6cb3427",
- "notes": "Version 4.89\n• Alignement fin des paroles : l'appli lit maintenant le fichier « .sync.json » fabriqué sur le PC (aligneur de paroles) à côté du fichier UltraStar, dans le dossier synchronisé. Les paroles se colorent alors au vrai moment de chaque syllabe (mesuré sur la voix isolée), au lieu de se baser sur les notes de l'IA\n• Le menu Points indique « Alignement fin des syllabes : X lignes sur Y ✓ » quand il est utilisé ; les lignes peu fiables gardent l'ancien calcul\n• Rien à régler : le fichier est trouvé et mis à jour tout seul avec le fichier UltraStar du même nom"
+ "versionCode": 106,
+ "versionName": "4.90",
+ "file": "android/RomajiLyrics-Android-4.90.apk",
+ "sha256": "2d6b18213550c99bfbe7e396808433f547027d967d81bc2f7525584b7be9384d",
+ "notes": "Version 4.90\n• Menu Points : l'alignement fin des syllabes est maintenant cherché dès l'ouverture du menu (plus besoin de lancer « Points » d'abord) et le menu dit clairement s'il est utilisé ✓ ou pourquoi il est introuvable (combien de .sync.json vus dans le dossier, et si celui du morceau manque)"
 }
