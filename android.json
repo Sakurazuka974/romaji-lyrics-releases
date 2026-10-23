@@ -1,7 +1,7 @@
 {
- "versionCode": 110,
- "versionName": "4.93",
- "file": "android/RomajiLyrics-Android-4.93.apk",
- "sha256": "99f5ad18d2ec286be1acb4898b9a427c79b1c221edbc1b4175bf88152e796a90",
- "notes": "Version 4.93\n• Hauteur mesurée sur ta voix : l'appli lit le fichier d'alignement version 2 (hauteur de chaque syllabe mesurée par l'IA torchcrepe sur la voix isolée). Les pastilles ne dépendent plus des notes d'UltraSinger : chaque syllabe a sa pastille, à sa vraie hauteur et à son vrai moment\n• Syllabes sans voix stable (souffle, fin de mot) : pastille grise, non notée, donc plus de « RATÉ » injustes\n• Les glissandos (plus de 2 demi-tons dans une syllabe) donnent 2 ou 3 pastilles qui suivent la voix\n• Fin des syllabes affinée sur la durée réellement chantée"
+ "versionCode": 111,
+ "versionName": "4.94",
+ "file": "android/RomajiLyrics-Android-4.94.apk",
+ "sha256": "a2f6f701b1d13ef3bcaba8f07404f37217de87088c3b522ae539ec8ef6e99d71",
+ "notes": "Version 4.94\n• Notes longues : les pastilles tiennent maintenant toute la longueur de la syllabe. Avant, quand la voix glissait dans une syllabe, seules les parties « sûres » étaient dessinées et la fin de la note disparaissait ; maintenant les 2 ou 3 pastilles se touchent et couvrent la syllabe du début à la fin"
 }
