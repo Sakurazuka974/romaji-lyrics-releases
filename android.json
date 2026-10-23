@@ -1,7 +1,7 @@
 {
- "versionCode": 106,
- "versionName": "4.90",
- "file": "android/RomajiLyrics-Android-4.90.apk",
- "sha256": "2d6b18213550c99bfbe7e396808433f547027d967d81bc2f7525584b7be9384d",
- "notes": "Version 4.90\n• Menu Points : l'alignement fin des syllabes est maintenant cherché dès l'ouverture du menu (plus besoin de lancer « Points » d'abord) et le menu dit clairement s'il est utilisé ✓ ou pourquoi il est introuvable (combien de .sync.json vus dans le dossier, et si celui du morceau manque)"
+ "versionCode": 107,
+ "versionName": "4.91",
+ "file": "android/RomajiLyrics-Android-4.91.apk",
+ "sha256": "30eaff0221ec8b444fabaa9f828c721eec1aebfd20a543ee9ec391aa39800558",
+ "notes": "Version 4.91\n• Alignement fin corrigé : la couleur des paroles ne subit plus le « tempo corrigé » des notes de l'IA (qui la décalait de plusieurs secondes en fin de chanson, jusqu'à 15 s sur la dernière ligne). Elle utilise maintenant le vrai décalage mesuré entre le début des lignes synchronisées et la voix détectée, plus ton réglage fin"
 }
