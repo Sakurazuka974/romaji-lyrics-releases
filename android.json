@@ -1,7 +1,7 @@
 {
- "versionCode": 102,
- "versionName": "4.86",
- "file": "android/RomajiLyrics-Android-4.86.apk",
- "sha256": "672d1694ae4964cfd60daa2e04cc5db13f6979719cc1564c5bc5b644eb11544b",
- "notes": "Version 4.86\n• Points : le bandeau de paroles du bas est supprimé (il répétait la ligne du haut et se mélangeait). Les syllabes reviennent juste sous leur pastille, mais seulement celles autour du curseur : la syllabe en cours est grande et se remplit, la suivante est plus discrète, rien ne se chevauche\n• La scène des pastilles est plus haute (moins de vide en bas)"
+ "versionCode": 103,
+ "versionName": "4.87",
+ "file": "android/RomajiLyrics-Android-4.87.apk",
+ "sha256": "d7c8e04ec5e38c558780a774dfa69c054a82fd77073a5d21fb7e2d888a1b2319",
+ "notes": "Version 4.87\n• Points façon SingStar : les paroles sont maintenant dans la scène, en grand, et se colorent syllabe par syllabe au rythme du chant (or pour les notes dorées), avec une petite balle qui rebondit au bord de la couleur. Le japonais est en petit dessous et la ligne suivante est annoncée plus bas\n• Fini les doublons : plus de ligne en haut ni en bas de la scène, ni de petites syllabes sous les pastilles. Les pastilles prennent toute la place au-dessus des paroles\n• Les lignes trop longues se réduisent, puis passent sur deux rangées, sans jamais être coupées"
 }
