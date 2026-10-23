@@ -1,7 +1,7 @@
 {
- "versionCode": 103,
- "versionName": "4.87",
- "file": "android/RomajiLyrics-Android-4.87.apk",
- "sha256": "d7c8e04ec5e38c558780a774dfa69c054a82fd77073a5d21fb7e2d888a1b2319",
- "notes": "Version 4.87\n• Points façon SingStar : les paroles sont maintenant dans la scène, en grand, et se colorent syllabe par syllabe au rythme du chant (or pour les notes dorées), avec une petite balle qui rebondit au bord de la couleur. Le japonais est en petit dessous et la ligne suivante est annoncée plus bas\n• Fini les doublons : plus de ligne en haut ni en bas de la scène, ni de petites syllabes sous les pastilles. Les pastilles prennent toute la place au-dessus des paroles\n• Les lignes trop longues se réduisent, puis passent sur deux rangées, sans jamais être coupées"
+ "versionCode": 104,
+ "versionName": "4.88",
+ "file": "android/RomajiLyrics-Android-4.88.apk",
+ "sha256": "d7dadb1a4859e7ff2989b1fd50255a35227a838e09bb7e18e7101371fe1844e0",
+ "notes": "Version 4.88\n• Synchro plus fine : quand le lecteur envoie une nouvelle position, l'appli corrige les petits écarts en douceur (en 0,45 s) au lieu de sauter d'un coup, donc les paroles et les pastilles ne « sautillent » plus\n• Fichiers IA : recalage local ligne par ligne. Si la dérive n'est pas régulière (reprise après un break, coupure), les notes des lignes concernées sont décalées de l'écart constaté sur 5 lignes voisines. Sans dérive, rien ne bouge\n• Les notes tenues ne dépassent plus 2,2 secondes (la grande barre qui traversait tout l'écran en venait)\n• Courbe de ta voix plus calme (lissage sur 5 mesures) ; la partie chantée des paroles est d'un rose plus net"
 }
