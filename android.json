@@ -1,7 +1,7 @@
 {
- "versionCode": 101,
- "versionName": "4.85",
- "file": "android/RomajiLyrics-Android-4.85.apk",
- "sha256": "2597440730ffde4fc56103c938783b0ffaa06fb89326d798fd665e867f9545c4",
- "notes": "Version 4.85\n• Points : les paroles sont maintenant dans un bandeau fixe en bas de la scène (deux rangées en alternance, plus lisible quand ça chante vite) ; la syllabe en cours se remplit et se souligne\n• Compte à rebours : 3 points avant une phrase qui revient après un silence\n• Fichiers IA : les notes aberrantes (une octave à côté) sont remises à la bonne hauteur à l'écran, la courbe de ta voix est moins nerveuse\n• Nouveau : « ⏱ Calibrer le retard du micro » dans le menu Points (6 bips, mesure automatique) pour que ta voix tombe pile sur les pastilles\n• Le menu n'affiche plus « 0 % » quand les paroles ne sont pas encore chargées"
+ "versionCode": 102,
+ "versionName": "4.86",
+ "file": "android/RomajiLyrics-Android-4.86.apk",
+ "sha256": "672d1694ae4964cfd60daa2e04cc5db13f6979719cc1564c5bc5b644eb11544b",
+ "notes": "Version 4.86\n• Points : le bandeau de paroles du bas est supprimé (il répétait la ligne du haut et se mélangeait). Les syllabes reviennent juste sous leur pastille, mais seulement celles autour du curseur : la syllabe en cours est grande et se remplit, la suivante est plus discrète, rien ne se chevauche\n• La scène des pastilles est plus haute (moins de vide en bas)"
 }
