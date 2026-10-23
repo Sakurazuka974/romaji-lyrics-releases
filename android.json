@@ -1,7 +1,7 @@
 {
- "versionCode": 107,
- "versionName": "4.91",
- "file": "android/RomajiLyrics-Android-4.91.apk",
- "sha256": "30eaff0221ec8b444fabaa9f828c721eec1aebfd20a543ee9ec391aa39800558",
- "notes": "Version 4.91\n• Alignement fin corrigé : la couleur des paroles ne subit plus le « tempo corrigé » des notes de l'IA (qui la décalait de plusieurs secondes en fin de chanson, jusqu'à 15 s sur la dernière ligne). Elle utilise maintenant le vrai décalage mesuré entre le début des lignes synchronisées et la voix détectée, plus ton réglage fin"
+ "versionCode": 108,
+ "versionName": "4.92",
+ "file": "android/RomajiLyrics-Android-4.92.apk",
+ "sha256": "4e1b27bf5506d73cd35dc7eb14e7ae2dba33998bf1c2a046b70fec0dfb89f905",
+ "notes": "Version 4.92\n• Pastilles à la syllabe près : avec l'alignement fin du PC, chaque ligne fiable affiche maintenant une pastille par syllabe, exactement au moment mesuré sur la voix (donc pastilles, couleur des paroles et score sont enfin d'accord). La hauteur vient du fichier de l'aligneur s'il la fournit, sinon de la note UltraSinger la plus proche (remise à la bonne octave)\n• Les lignes peu fiables gardent les notes de l'IA"
 }
